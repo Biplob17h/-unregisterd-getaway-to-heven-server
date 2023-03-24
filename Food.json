@@ -28,7 +28,7 @@
     },
     {
         "name": "TONKATSU",
-        "category":["pork, deep-fry"],
+        "category":["pork", "deep-fry"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/tonkatsu-min.jpeg",
         "price":"17",
         "country":"Japanese",
@@ -37,7 +37,7 @@
     },
     {
         "name": "KARAAGE",
-        "category":["chicken, deep-fry"],
+        "category":["chicken","deep-fry"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/karaage-min.jpeg",
         "price":"10",
         "country":"Japanese",
@@ -46,7 +46,7 @@
     },
     {
         "name": "YAKITORI",
-        "category":["chicken, grill"],
+        "category":["chicken","grill"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/yakitori-min.jpeg",
         "price":"12",
         "country":"Japanese",
@@ -55,7 +55,7 @@
     },
     {
         "name": "YAKINIKU",
-        "category":["meat, grill"],
+        "category":["meat","grill"],
         "img":"https://www.lowcarbingasian.com/wp-content/uploads/2019/08/Japanese-Grilled-Beef-Yakiniku-2-LowCarbingAsain-Cover.jpg",
         "price":"25",
         "country":"Japanese",
@@ -64,7 +64,7 @@
     },
     {
         "name": "GYOZA",
-        "category":["meat, grill, deep-fry"],
+        "category":["meat","grill","deep-fry"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/gyoza-min.jpeg",
         "price":"15",
         "country":"Japanese",
@@ -82,7 +82,7 @@
     },
     {
         "name": "ODEN",
-        "category":["fish, meat, vegetable,stew"],
+        "category":["fish","meat","vegetable","stew"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/oden-min.jpeg",
         "price":"45",
         "country":"Japanese",
@@ -109,7 +109,7 @@
     },
     {
         "name": "JAPANESE CURRY RICE",
-        "category":["curry, rice"],
+        "category":["curry","rice"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/curry-rice-min.jpeg",
         "price":"20",
         "country":"Japanese",
@@ -127,7 +127,7 @@
     },
     {
         "name": "GYUDON",
-        "category":["rice, beef"],
+        "category":["rice","beef"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/gyudon-min.jpeg",
         "price":"35",
         "country":"Japanese",
@@ -137,7 +137,7 @@
     },
     {
         "name": "KAISENDON",
-        "category":["seafood, rice"],
+        "category":["seafood","rice"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/kaisendon-min.jpeg",
         "price":"",
         "country":"Japanese",
@@ -146,7 +146,7 @@
     },
     {
         "name": "OYAKODON",
-        "category":["rice, egg, chicken"],
+        "category":["rice","egg","chicken"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/oyakodon-min.jpeg",
         "price":"20",
         "country":"Japanese",
@@ -173,7 +173,7 @@
     },
     {
         "name": "RAMEN",
-        "category":["noodle meat, egg"],
+        "category":["noodle","meat","egg"],
         "img":"https://wandereatwrite.com/usheeche/2021/03/tokyo-ramen.jpg",
         "price":"20",
         "country":"Japanese",
@@ -182,7 +182,7 @@
     },
     {
         "name": "YAKISOBA",
-        "category":["noodle, vegetable"],
+        "category":["noodle","vegetable"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/yakisoba-min.jpeg",
         "price":"18",
         "country":"Japanese",
@@ -200,7 +200,7 @@
     },
     {
         "name": "MOCHI",
-        "category":["sweet, rice"],
+        "category":["sweet","rice"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/mochi-min.jpeg",
         "price":"5",
         "country":"Japanese",
@@ -209,7 +209,7 @@
     },
     {
         "name": "DANGO",
-        "category":["sweet, rice"],
+        "category":["sweet","rice"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/dango-min.jpeg",
         "price":"10",
         "country":"Japanese",
@@ -236,7 +236,7 @@
     },
     {
         "name": "OSECHI",
-        "category":["fish, seafood, meat, vegetable, beef"],
+        "category":["fish","seafood","meat","vegetable","beef"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/osechi-min.jpeg",
         "price":"50",
         "country":"Japanese",
@@ -290,7 +290,7 @@
     },
     {
         "name": "Jiaozi",
-        "category":["beef, vegetable"],
+        "category":["beef","vegetable"],
         "img":"https://cdn.tasteatlas.com/images/dishes/82fbbf7148654aa29148960471e86393.jpg?mw=1300",
         "price":"25",
         "country":"Chinese",
@@ -308,7 +308,7 @@
     },
     {
         "name": "Spring Rolls",
-        "category":["egg, pork, vegetable"],
+        "category":["egg","pork","vegetable"],
         "img":"https://cdn.tasteatlas.com/images/dishes/7e44f5dd6dc547009fa957b89cb9bf19.jpg?mw=1300",
         "price":"5",
         "country":"Chinese",
@@ -344,7 +344,7 @@
     },
     {
         "name": "Chow mein",
-        "category":["noodle, deep-fry"],
+        "category":["noodle","deep-fry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/31b6fc6d28e046f9833a6d5e2d15d2e8.jpg?mw=1300",
         "price":"15",
         "country":"Chinese",
@@ -362,7 +362,7 @@
     },
     {
         "name": "Shabu-shabu",
-        "category":["beef, meat, duck"],
+        "category":["beef","meat","duck"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/a0d38863c302465897167dde250dbcb1.jpg?mw=1300",
         "price":"10",
         "country":"Chinese",
@@ -434,7 +434,7 @@
     },
     {
         "name": "Mapo doufu",
-        "category":["beef, vegetable"],
+        "category":["beef","vegetable"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/8738dc28f1824697b53a1852456ccff5.jpg?mw=1300",
         "price":"37",
         "country":"Chinese",
@@ -452,7 +452,7 @@
     },
     {
         "name": "Peking Duck",
-        "category":["duck, sauce"],
+        "category":["duck","sauce"],
         "img":"https://cdn.tasteatlas.com/images/dishes/d8c9977734d040b3bed4e29caff5b2b2.jpg?mw=1300",
         "price":"",
         "country":"Chinese",
@@ -479,7 +479,7 @@
     },
     {
         "name": "Orange Chicken",
-        "category":["chicken, egg"],
+        "category":["chicken","egg"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/4cc2758bb1354d4e8b1e018105767fed.jpg?mw=1300",
         "price":"30",
         "country":"Chinese",
@@ -488,7 +488,7 @@
     },
     {
         "name": "Shumai",
-        "category":["egg, pork"],
+        "category":["egg","pork"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/9a1dd20923f6437aa939f9aa9a2ea8a0.jpg?mw=1300",
         "price":"15",
         "country":"Chinese",
@@ -515,7 +515,7 @@
     },
     {
         "name": "Chinese Mitten Crab",
-        "category":["meat, seafood, crab"],
+        "category":["meat","seafood","crab"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/de827a7d5f0a4a46a4e7a162de35e118.jpg?mw=1300",
         "price":"12",
         "country":"Chinese",
@@ -524,7 +524,7 @@
     },
     {
         "name": "Lo mein",
-        "category":["noodle, egg"],
+        "category":["noodle","egg"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/c8d8acba065a488c9447cde581338c59.jpg?mw=1300",
         "price":"15",
         "country":"Chinese",
@@ -533,7 +533,7 @@
     },
     {
         "name": "General Tso's Chicken",
-        "category":["chicken, deep-fry"],
+        "category":["chicken","deep-fry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/fd4840acb1644957923f87ca6823d7a0.jpg?mw=1300",
         "price":"20",
         "country":"Chinese",
@@ -542,7 +542,7 @@
     },
     {
         "name": "Yangzhou Fried Rice",
-        "category":["rice, egg"],
+        "category":["rice","egg"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/45e5473ffdea4c658aa74b47f3065ea7.jpg?mw=1300",
         "price":"10",
         "country":"Chinese",
@@ -614,7 +614,7 @@
     },
     {
         "name": "Grilled Chicken Breasts With Chilies & Lemongrass",
-        "category":["chicken, grill"],
+        "category":["chicken", "grill"],
         "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/grilled-chicken-breasts-with-chillis-lemongrass.jpg",
         "price":"20",
         "country":"Continental",
@@ -686,7 +686,7 @@
     },
     {
         "name": "Chicken Roast",
-        "category":["chicken, roast"],
+        "category":["chicken", "roast"],
         "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/sunday-chicken-roast.jpg",
         "price":"25",
         "country":"Continental",
@@ -722,7 +722,7 @@
     },
     {
         "name": "Barbequed Chicken",
-        "category":["chicken, barbeque"],
+        "category":["chicken", "barbeque"],
         "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/barbequed-chicken.jpg",
         "price":"14",
         "country":"Continental",
@@ -731,7 +731,7 @@
     },
     {
         "name": "French Fries",
-        "category":["deep-fry, potato"],
+        "category":["deep-fry", "potato"],
         "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/french-fries.jpg",
         "price":"10",
         "country":"Continental",
@@ -740,7 +740,7 @@
     },
     {
         "name": "Egg Or Eggless Pancakes",
-        "category":["egg, pancake"],
+        "category":["egg", "pancake"],
         "img":"",
         "price":"",
         "country":"Continental",
@@ -767,7 +767,7 @@
     },
     {
         "name": "Biryani",
-        "category":["rice, chicken"],
+        "category":["rice", "chicken"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/8fd2297171484b88be3e3e6815979690.jpg?mw=1300",
         "price":"15",
         "country":"Indian",
@@ -821,7 +821,7 @@
     },
     {
         "name": "Tandoori Chicken",
-        "category":["chicken, barbeque"],
+        "category":["chicken", "barbeque"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/bdab2e7920f0409188d0b3646826893a.jpg?mw=1300",
         "price":"20",
         "country":"Indian",
@@ -857,7 +857,7 @@
     },
     {
         "name": "Vindaloo",
-        "category":["curry, chicken, beef"],
+        "category":["curry", "chicken", "beef"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/6c8eab762bef45d4be6082f76f740c65.jpg?mw=1300",
         "price":"14",
         "country":"Indian",
@@ -884,7 +884,7 @@
     },
     {
         "name": "Vada pav",
-        "category":["potato, bread"],
+        "category":["potato", "bread"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/4f894f659d174f94bc78ad5da33dd860.jpg?mw=1300",
         "price":"4",
         "country":"Indian",
@@ -902,7 +902,7 @@
     },
     {
         "name": "Pulao",
-        "category":["rice, chicken"],
+        "category":["rice", "chicken"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/eb41273945744da0b8357a9726625250.jpg?mw=1300",
         "price":"14",
         "country":"Indian",
@@ -911,7 +911,7 @@
     },
     {
         "name": "Hyderabadi biryani",
-        "category":["meat, chicken"],
+        "category":["meat", "chicken"],
         "img":"https://cdn.tasteatlas.com/images/dishes/3bd6dfaf53e244dfb7f3ee390447a2f8.jpg?mw=1300",
         "price":"20",
         "country":"Indian",
@@ -947,7 +947,7 @@
     },
     {
         "name": "Palak paneer",
-        "category":["vegetable, stew"],
+        "category":["vegetable", "stew"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/bf95ebff1c834a3ea53765da29f13423.jpg?mw=1300",
         "price":"7",
         "country":"Indian",
@@ -965,7 +965,7 @@
     },
     {
         "name": "Keema",
-        "category":["chicken, meat"],
+        "category":["chicken", "meat"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/aed15b96c6384aef89ce3cefd4e6196d.jpg?mw=1300",
         "price":"10",
         "country":"Indian",
@@ -983,7 +983,7 @@
     },
     {
         "name": "Ras malai",
-        "category":["sweet, stew"],
+        "category":["sweet", "stew"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/b53ee1a62b704a36b63361822681ed47.jpg?mw=1300",
         "price":"6",
         "country":"Indian",
@@ -992,7 +992,7 @@
     },
     {
         "name": "Gulab jamun",
-        "category":["sweet, stew"],
+        "category":["sweet", "stew"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/23fba80da08c46ceba5a99a5b1f1f200.jpg?mw=1300",
         "price":"6",
         "country":"Indian",
@@ -1001,7 +1001,7 @@
     },
     {
         "name": "Chicken 65",
-        "category":["chicken, egg"],
+        "category":["chicken", "egg"],
         "img":"https://cdn.tasteatlas.com/images/dishes/55f00ba4fe8746a68b8ad62b24226e3b.jpg?mw=1300",
         "price":"23",
         "country":"Indian",
@@ -1028,7 +1028,7 @@
     },
     {
         "name": "Pav bhaji",
-        "category":["bread, stew"],
+        "category":["bread", "stew"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/081e0170e376406aa4b56f5b86cc3156.jpg?mw=1300",
         "price":"8",
         "country":"Indian",
@@ -1055,7 +1055,7 @@
     },
     {
         "name": "Raita",
-        "category":["stew, vegetable"],
+        "category":["stew", "vegetable"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/2e3ac247a441416ca9b22d648fe3a708.jpg?mw=1300",
         "price":"7",
         "country":"Indian",
@@ -1064,7 +1064,7 @@
     },
     {
         "name": "Saag paneer",
-        "category":["vegetable, vegan"],
+        "category":["vegetable", "vegan"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/9662d774c41a476bb4ff9379f919c3e7.jpg?mw=1300",
         "price":"8",
         "country":"Indian",
@@ -1127,7 +1127,7 @@
     },
     {
         "name": "Pasta carbonara",
-        "category":["egg, pork"],
+        "category":["egg", "pork"],
         "img":"https://cdn.tasteatlas.com/images/dishes/79b072c652ba423eb4de617b9b51a399.jpg?mw=1300",
         "price":"13",
         "country":"Italan",
@@ -1226,7 +1226,7 @@
     },
     {
         "name": "Minestrone",
-        "category":["stew, soup"],
+        "category":["stew", "soup"],
         "img":"https://cdn.tasteatlas.com/images/dishes/70a2d53e32ad430ebe307bbd63a941cf.jpg?mw=1300",
         "price":"14",
         "country":"Italan",
@@ -1244,7 +1244,7 @@
     },
     {
         "name": "Grissini",
-        "category":[""],
+        "category":["bread", "roll"],
         "img":"https://cdn.tasteatlas.com/images/dishes/f65e4c13c7f94d908a49992fcbf536db.jpg?mw=1300",
         "price":"5",
         "country":"Italan",
@@ -1280,7 +1280,7 @@
     },
     {
         "name": "Spaghetti alle vongole",
-        "category":["seafood, clams"],
+        "category":["seafood", "clams"],
         "img":"https://cdn.tasteatlas.com/images/dishes/df1dc40d4e1d46a485f263585ee6421c.jpg?mw=1300",
         "price":"14",
         "country":"Italan",
@@ -1415,7 +1415,7 @@
     },
     {
         "name": "Croissant",
-        "category":["egg, cake"],
+        "category":["egg", "cake"],
         "img":"https://cdn.tasteatlas.com/images/dishes/b075a8fbe7224ef787272cf4d979e388.jpg?mw=1300",
         "price":"10",
         "country":"French",
@@ -1424,7 +1424,7 @@
     },
     {
         "name": "Quiche",
-        "category":["vegetable, egg"],
+        "category":["vegetable", "egg"],
         "img":"https://cdn.tasteatlas.com/images/dishes/ec9dfc952dd148a8bbcf43cdbac6569a.jpg?mw=1300",
         "price":"13",
         "country":"French",
@@ -1433,7 +1433,7 @@
     },
     {
         "name": "Baguette",
-        "category":["bread, roll"],
+        "category":["bread", "roll"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/6ef8ca510bb44884af294128bab03191.jpg?mw=1300",
         "price":"7",
         "country":"French",
@@ -1460,7 +1460,7 @@
     },
     {
         "name": "Bisque",
-        "category":["lobster, soup"],
+        "category":["lobster", "soup"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/0809873b805340dcbdb18110564779ef.jpg?mw=1300",
         "price":"13",
         "country":"French",
@@ -1469,7 +1469,7 @@
     },
     {
         "name": "Soufflé",
-        "category":["egg, cake"],
+        "category":["egg", "cake"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/064bd8d6006c46529ec729cf45cd335e.jpg?mw=1300",
         "price":"8",
         "country":"French",
@@ -1496,7 +1496,7 @@
     },
     {
         "name": "Brioche",
-        "category":["egg, bread"],
+        "category":["egg", "bread"],
         "img":"https://cdn.tasteatlas.com/images/dishes/19ee4ceab82b478eba60e2e0e5a6358d.jpg?mw=1300",
         "price":"5",
         "country":"French",
@@ -1514,7 +1514,7 @@
     },
     {
         "name": "Hollandaise sauce",
-        "category":["soup, egg"],
+        "category":["soup", "egg"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/26358df9f0a543609e253a1ab2a41856.jpg?mw=1300",
         "price":"8",
         "country":"French",
@@ -1559,7 +1559,7 @@
     },
     {
         "name": "Mousse au chocolat",
-        "category":["sweet, egg"],
+        "category":["sweet", "egg"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/d9fdc5f7ed1c4d0cb558eae1592bc711.jpg?mw=1300",
         "price":"14",
         "country":"French",
@@ -1568,7 +1568,7 @@
     },
     {
         "name": "Steak-frites",
-        "category":["beef, deep-fry"],
+        "category":["beef", "deep-fry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/54d1956debfa40f2b1cdc22a89ad6124.jpg?mw=1300",
         "price":"22",
         "country":"French",
@@ -1577,7 +1577,7 @@
     },
     {
         "name": "Pain perdu",
-        "category":["bread, egg"],
+        "category":["bread", "egg"],
         "img":"https://cdn.tasteatlas.com/images/dishes/26716764bc414a4699efef6434025831.jpg?mw=1300",
         "price":"10",
         "country":"French",
@@ -1613,7 +1613,7 @@
     },
     {
         "name": "Quiche Lorraine",
-        "category":["egg, meat"],
+        "category":["egg", "meat"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/a2ef7a3408c849b68088a44569ab13d0.jpg?mw=1300",
         "price":"16",
         "country":"French",
@@ -1622,7 +1622,7 @@
     },
     {
         "name": "Riz au lait",
-        "category":["sweet, rice"],
+        "category":["sweet", "rice"],
         "img":"https://cdn.tasteatlas.com/images/dishes/bded9f61bc424359931994950bc59662.jpg?mw=1300",
         "price":"20",
         "country":"French",
@@ -1631,7 +1631,7 @@
     },
     {
         "name": "Consommé",
-        "category":["beef, soup"],
+        "category":["beef", "soup"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/2bf05544af8149acacce732bd4bb6a2e.jpg?mw=1300",
         "price":"25",
         "country":"French",
@@ -1640,7 +1640,7 @@
     },
     {
         "name": "Terrine",
-        "category":["meat, pork"],
+        "category":["meat", "pork"],
         "img":"https://cdn.tasteatlas.com/images/dishes/5452b987142b4d5190a08632571e4e88.jpg?mw=1300",
         "price":"15",
         "country":"French",
@@ -1649,7 +1649,7 @@
     },
     {
         "name": "Beignets",
-        "category":["egg, deep-fry"],
+        "category":["egg", "deep-fry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/a4d5cfd1b46646239b59d5b8f57a2bb6.jpg?mw=1300",
         "price":"14",
         "country":"French",
@@ -1703,7 +1703,7 @@
     },
     {
         "name": "Rouille",
-        "category":["egg, cake"],
+        "category":["egg", "cake"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/3cabaa67725a4924b3a6c573e3e6da48.jpg?mw=1300",
         "price":"10",
         "country":"French",
@@ -1712,7 +1712,7 @@
     },
     {
         "name": "Île flottante",
-        "category":["egg, stew"],
+        "category":["egg", "stew"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/3f4cb32e87ea49779b9b9290705f3edd.jpg?mw=1300",
         "price":"13",
         "country":"French",
@@ -1721,7 +1721,7 @@
     },
     {
         "name": "Crème caramel",
-        "category":["egg, cake"],
+        "category":["egg", "cake"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/e9b48df564c547d9a20fd8c04a9092e8.jpg?mw=1300",
         "price":"10",
         "country":"French",
@@ -1757,7 +1757,7 @@
     },
     {
         "name": "Mille feuilles",
-        "category":["egg, cake"],
+        "category":["egg", "cake"],
         "img":"https://cdn.tasteatlas.com/images/dishes/e896274f994d45eea9582e9ff278e604.jpg?mw=1300",
         "price":"24",
         "country":"French",
@@ -1766,7 +1766,7 @@
     },
     {
         "name": "Pad Thai",
-        "category":["noodle, egg, shrimps"],
+        "category":["noodle", "egg", "shrimps"],
         "img":"https://cdn.tasteatlas.com/images/dishes/ad3ef1fb39eb42958e7462961951e45c.jpg?mw=1300",
         "price":"17",
         "country":"thai",
@@ -1775,7 +1775,7 @@
     },
     {
         "name": "Thai Curry",
-        "category":["chicken, curry"],
+        "category":["chicken", "curry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/4dccb29bd2ee4ba1800699a4f6c23413.jpg?mw=1300",
         "price":"10",
         "country":"thai",
@@ -1784,7 +1784,7 @@
     },
     {
         "name": "Tom yum",
-        "category":["mushroom, shrimps"],
+        "category":["mushroom", "shrimps"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/4eb244d172a44fe7b0a7379e03a7ba89.jpg?mw=1300",
         "price":"18",
         "country":"thai",
@@ -1793,7 +1793,7 @@
     },
     {
         "name": "Green Curry",
-        "category":["shrimps, curry"],
+        "category":["shrimps", "curry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/e97989579bd6431c9b6b90b5b9a5b1b4.jpg?mw=1300",
         "price":"10",
         "country":"thai",
@@ -1802,7 +1802,7 @@
     },
     {
         "name": "Yellow Curry",
-        "category":["duck, curry"],
+        "category":["duck", "curry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/272a57ca6437461288b69f6f1588de03.jpg?mw=1300",
         "price":"18",
         "country":"thai",
@@ -1811,7 +1811,7 @@
     },
     {
         "name": "Red Curry",
-        "category":["curry, chicken"],
+        "category":["curry", "chicken"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/4498dce9deb94b6aba4c6b221269f307.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -1838,7 +1838,7 @@
     },
     {
         "name": "Massaman Curry",
-        "category":["beef, curry"],
+        "category":["beef", "curry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/9cac129f40d9404e9f1d759809ab7dd6.jpg?mw=1300",
         "price":"25",
         "country":"thai",
@@ -1847,7 +1847,7 @@
     },
     {
         "name": "Khao soi",
-        "category":["noodle, beef "],
+        "category":["noodle", "beef "],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/af467a8acc9b442ba6ca5fc5edf4707b.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -1856,7 +1856,7 @@
     },
     {
         "name": "Phanaeng Curry",
-        "category":["beef, curry"],
+        "category":["beef", "curry"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/a0d80bf83b6c49e5841dedd8f9e02faa.jpg?mw=1300",
         "price":"22",
         "country":"thai",
@@ -1865,7 +1865,7 @@
     },
     {
         "name": "Thai Grilled Chicken",
-        "category":["chicken, grill"],
+        "category":["chicken", "grill"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/e23aa44f612441058cec7d8c0628fd42.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -1874,7 +1874,7 @@
     },
     {
         "name": "Ruam mit",
-        "category":["sweet, stew"],
+        "category":["sweet", "stew"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/ca7b4d0fbfe346fca8b05a83e5fb7cd8.jpg?mw=1300",
         "price":"15",
         "country":"thai",
@@ -1892,7 +1892,7 @@
     },
     {
         "name": "Khao phat",
-        "category":["deep-fry, rice, meat"],
+        "category":["deep-fry", "rice", "meat"],
         "img":"https://cdn.tasteatlas.com/images/dishes/29799fb95dcd473d8100bfa526a4a148.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -1901,7 +1901,7 @@
     },
     {
         "name": "Phat kaphrao",
-        "category":["rice, egg, meat"],
+        "category":["rice", "egg", "meat"],
         "img":"https://cdn.tasteatlas.com/images/dishes/ac07712d9bcc40bbb2deb4a2038b2733.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -1910,7 +1910,7 @@
     },
     {
         "name": "Khao mok gai",
-        "category":["rice, chicken"],
+        "category":["rice", "chicken"],
         "img":"https://cdn.tasteatlas.com/images/dishes/ef680819d36a49d7a74d275ff339aea2.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -1919,7 +1919,7 @@
     },
     {
         "name": "Yen ta fo",
-        "category":["shrimps, meat, noodle, chicken"],
+        "category":["shrimps", "meat", "noodle", "chicken"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/5ac53d8672b64782bac0bae2e93ac448.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -1928,7 +1928,7 @@
     },
     {
         "name": "Khao tom",
-        "category":["rice, soup"],
+        "category":["rice", "soup"],
         "img":"https://cdn.tasteatlas.com/images/dishes/cb24a7ad48e544d9a0968ba579d8e6b9.jpg?mw=1300",
         "price":"15",
         "country":"thai",
@@ -1937,7 +1937,7 @@
     },
     {
         "name": "Larb",
-        "category":["vegetable, meat"],
+        "category":["vegetable", "meat"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/ee53a74cf91c4d2ea455f9eb898cdfaf.jpg?mw=1300",
         "price":"10",
         "country":"thai",
@@ -1946,7 +1946,7 @@
     },
     {
         "name": "Khao kha mu",
-        "category":["pork, rice, egg"],
+        "category":["pork", "rice", "egg"],
         "img":"https://cdn.tasteatlas.com/images/dishes/e3624dc5d087442db14c45bc19119801.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -1955,7 +1955,7 @@
     },
     {
         "name": "Mee krob",
-        "category":["deep-fry, noodle, rice"],
+        "category":["deep-fry", "noodle", "rice"],
         "img":"https://cdn.tasteatlas.com/images/dishes/e396a8d718554d568eeec4e26a945785.jpg?mw=1300",
         "price":"16",
         "country":"thai",
@@ -1973,7 +1973,7 @@
     },
     {
         "name": "Suki",
-        "category":["vegetable, soup"],
+        "category":["vegetable", "soup"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/10c206a4463e403a9218c47c5838a072.jpg?mw=1300",
         "price":"10",
         "country":"thai",
@@ -1982,7 +1982,7 @@
     },
     {
         "name": "Roti canai",
-        "category":["egg, naan"],
+        "category":["egg", "naan"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/4382dae5b7a842f386742b74cebf706d.jpg?mw=1300",
         "price":"5",
         "country":"thai",
@@ -2018,7 +2018,7 @@
     },
     {
         "name": "Jungle Curry",
-        "category":["chicken, curry"],
+        "category":["chicken", "curry"],
         "img":"https://cdn.tasteatlas.com/images/dishes/af6e227271fa4321879cadb91e4d67c6.jpg?mw=1300",
         "price":"15",
         "country":"thai",
@@ -2027,7 +2027,7 @@
     },
     {
         "name": "Khanom chin nam ya",
-        "category":["vegetable, fish, noddle, curry"],
+        "category":["vegetable", "fish", "noddle", "curry"],
         "img":"https://cdn.tasteatlas.com/images/dishes/39c1ad299a114909a96a72a238e7c13a.jpg?mw=1300",
         "price":"18",
         "country":"thai",
@@ -2036,7 +2036,7 @@
     },
     {
         "name": "Khao khluk kapi",
-        "category":["pork, rice, shrimps"],
+        "category":["pork", "rice", "shrimps"],
         "img":"https://cdn.tasteatlas.com/images/dishes/c33dbd62fd834fd4b0d7423f7b0507d0.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -2081,7 +2081,7 @@
     },
     {
         "name": "Golden Threads",
-        "category":["sweet, egg"],
+        "category":["sweet", "egg"],
         "img":"https://cdn.tasteatlas.com/images/dishes/68670dfafdb94f5bb8e34cde545aa434.jpg?mw=1300",
         "price":"10",
         "country":"thai",
@@ -2090,7 +2090,7 @@
     },
     {
         "name": "Phat phrik",
-        "category":["fish, curry"],
+        "category":["fish", "curry"],
         "img":"https://cdn.tasteatlas.com/images/dishes/b409abcd249b4b82804eeeb0ec14ea16.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -2099,7 +2099,7 @@
     },
     {
         "name": "Yum woon sen",
-        "category":["noodle, pork, bean"],
+        "category":["noodle", "pork", "bean"],
         "img":"https://cdn.tasteatlas.com/images/dishes/91a20b39cc114100aa66eb35deb00a2b.jpg?mw=1300",
         "price":"15",
         "country":"thai",
@@ -2108,7 +2108,7 @@
     },
     {
         "name": "Kuai-tiao ruea",
-        "category":["noodle, soup"],
+        "category":["noodle", "soup"],
         "img":"https://cdn.tasteatlas.com/images/dishes/c498c608efc243a3ba8aa68e109aea01.jpg?mw=1300",
         "price":"14",
         "country":"thai",
@@ -2126,7 +2126,7 @@
     },
     {
         "name": "Tom saep",
-        "category":["soup, beef"],
+        "category":["soup", "beef"],
         "img":"https://cdn.tasteatlas.com/images/dishes/6789bf2c99a0482995631ffd09c09d90.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -2135,7 +2135,7 @@
     },
     {
         "name": "Goong ob woon sen",
-        "category":["noodle, shrimps"],
+        "category":["noodle", "shrimps"],
         "img":"https://cdn.tasteatlas.com/images/dishes/e13ebd4a08bf4e828546e8654a5e5e16.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -2153,7 +2153,7 @@
     },
     {
         "name": "Khao khai chiao",
-        "category":["egg, rice"],
+        "category":["egg", "rice"],
         "img":"https://cdn.tasteatlas.com/images/dishes/ff3ca9c8973a45408f1570f9aef6a551.jpg?mw=1300",
         "price":"10",
         "country":"thai",
@@ -2162,7 +2162,7 @@
     },
     {
         "name": "Sour Spicy Fish Curry",
-        "category":["shrimps, curry"],
+        "category":["shrimps", "curry"],
         "img":"https://cdn.tasteatlas.com/images/dishes/08e0465d28dd4060b8e98a81417b6b6b.jpg?mw=1300",
         "price":"20",
         "country":"thai",
@@ -2171,7 +2171,7 @@
     },
     {
         "name": "Nam phrik",
-        "category":["meat, stew"],
+        "category":["meat", "stew"],
         "img":"https://cdn.tasteatlas.com/images/dishes/538cdddfb32a47c28caf558616fc102a.jpg?mw=1300",
         "price":"15",
         "country":"thai",
@@ -2180,7 +2180,7 @@
     },
     {
         "name": "Panta Ilish",
-        "category":["fish, rice"],
+        "category":["fish", "rice"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp",
         "price":"15",
         "country":"bangladeshi",
@@ -2189,7 +2189,7 @@
     },
     {
         "name": "Kacchi Biryani",
-        "category":["rice, beef"],
+        "category":["rice", "beef"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Kacchi-Biryani-1-960x540.jpg.webp",
         "price":"25",
         "country":"bangladeshi",
@@ -2198,7 +2198,7 @@
     },
     {
         "name": "Vuna Khichuri",
-        "category":["rice, beef"],
+        "category":["rice", "beef"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Khichuri-960x960.jpg.webp",
         "price":"20",
         "country":"bangladeshi",
@@ -2207,7 +2207,7 @@
     },
     {
         "name": "Morog Polao",
-        "category":["rice, egg, chicken"],
+        "category":["rice", "egg", "chicken"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Morog-Polao-1-960x540.jpg.webp",
         "price":"20",
         "country":"bangladeshi",
@@ -2216,7 +2216,7 @@
     },
     {
         "name": "Haleem",
-        "category":["stew, beef"],
+        "category":["stew", "beef"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg.webp",
         "price":"5",
         "country":"bangladeshi",
@@ -2234,7 +2234,7 @@
     },
     {
         "name": "Ras Malai",
-        "category":["sweet, stew"],
+        "category":["sweet", "stew"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Ras-Malai-1-960x960.jpg.webp",
         "price":"5",
         "country":"bangladeshi",
@@ -2315,7 +2315,7 @@
     },
     {
         "name": "Shemai",
-        "category":["sweet, stew"],
+        "category":["sweet", "stew"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Shemai-960x944.jpg.webp",
         "price":"10",
         "country":"bangladeshi",
@@ -2342,7 +2342,7 @@
     },
     {
         "name": "Bengali Mutton Curry",
-        "category":["meat, curry"],
+        "category":["meat", "curry"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Mangshor-Jhol-960x960.jpg.webp",
         "price":"15",
         "country":"bangladeshi",
@@ -2351,7 +2351,7 @@
     },
     {
         "name": "Fish Curry",
-        "category":["fish, curry"],
+        "category":["fish", "curry"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Macher-Jhol-2-960x800.jpg.webp",
         "price":"10",
         "country":"bangladeshi",
@@ -2396,7 +2396,7 @@
     },
     {
         "name": "Macher Chop",
-        "category":["fish, deep-fry"],
+        "category":["fish", "deep-fry"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Macher-Chop.jpg.webp",
         "price":"2",
         "country":"bangladeshi",
@@ -2405,7 +2405,7 @@
     },
     {
         "name": "Bengali Mishti Pulao",
-        "category":["sweet, rice"],
+        "category":["sweet","rice"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Bengali-Mishti-Pulao-960x1200.jpg.webp",
         "price":"20",
         "country":"bangladeshi",
@@ -2414,7 +2414,7 @@
     },
     {
         "name": "Chingri Pulao",
-        "category":["shrimps, rice"],
+        "category":["shrimps", "rice"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Chingri-Pulao-960x1200.jpg.webp",
         "price":"15",
         "country":"bangladeshi",
@@ -2423,7 +2423,7 @@
     },
     {
         "name": "Chingri Malai Curry",
-        "category":["shrimps, curry"],
+        "category":["shrimps", "curry"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Chingri-Malai-Curry-960x1201.jpg.webp",
         "price":"15",
         "country":"bangladeshi",
@@ -2432,7 +2432,7 @@
     },
     {
         "name": "Shukto ",
-        "category":["vegetable, stew"],
+        "category":["vegetable", "stew"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Shukto-960x960.jpg.webp",
         "price":"10",
         "country":"bangladeshi",
@@ -2441,7 +2441,7 @@
     },
     {
         "name": "Begun Bhaja",
-        "category":["vegetable, deep-fry"],
+        "category":["vegetable", "deep-fry"],
         "img":"https://www.chefspencil.com/wp-content/uploads/Begun-Bhaja-960x960.jpg.webp",
         "price":"5",
         "country":"bangladeshi",
@@ -2486,7 +2486,7 @@
     },
     {
         "name": "Khachapuri",
-        "category":["cheese, egg"],
+        "category":["cheese", "egg"],
         "img":"https://cdn.tasteatlas.com/images/dishes/dfe5095fa6854403ac8b9fe86a30b01a.jpg?mw=1300",
         "price":"10",
         "country":"Georgia",
@@ -2504,7 +2504,7 @@
     },
     {
         "name": "Ghormeh sabzi",
-        "category":["bean, beef"],
+        "category":["bean", "beef"],
         "img":"https://cdn.tasteatlas.com/images/dishes/b937783340484cdd9a02639a4e64ef39.jpg?mw=1300",
         "price":"20",
         "country":"Iran",
@@ -2522,7 +2522,7 @@
     },
     {
         "name": "Pasulj",
-        "category":["bean, stew"],
+        "category":["bean", "stew"],
         "img":"https://cdn.tasteatlas.com/images/dishes/72fabc5d4c6549c9ba4142b36b60a351.jpg?mw=1300",
         "price":"10",
         "country":"Serbia",
@@ -2531,7 +2531,7 @@
     },
     {
         "name": "Maine Lobster",
-        "category":["lobster, seafood"],
+        "category":["lobster", "seafood"],
         "img":"https://cdn.tasteatlas.com/images/ingredients/2b15bf73cddd4b0489ec84712417bf76.jpg?mw=1300",
         "price":"35",
         "country":"USA",
@@ -2540,7 +2540,7 @@
     },
     {
         "name": "Dungeness Crab",
-        "category":["seafood, crab"],
+        "category":["seafood", "crab"],
         "img":"https://cdn.tasteatlas.com/images/ingredients/8ac9861ba3e84d7788b79a9c577cc913.jpg?mw=1300",
         "price":"20",
         "country":"USA",
@@ -2549,7 +2549,7 @@
     },
     {
         "name": "Stone Crab",
-        "category":["seafood, crab"],
+        "category":["seafood", "crab"],
         "img":"https://cdn.tasteatlas.com/images/ingredients/5f80acc9001b44929e26d69eab55daf4.jpg?mw=1300",
         "price":"20",
         "country":"bangladeshi",
@@ -2558,7 +2558,7 @@
     },
     {
         "name": "Mejillón de Galicia ",
-        "category":["seafood, clams"],
+        "category":["seafood", "clams"],
         "img":"https://cdn.tasteatlas.com/Images/Ingredients/5b9ddcee70404d188c1b528490086d4e.jpg?mw=1300",
         "price":"15",
         "country":"Spain",
@@ -2567,7 +2567,7 @@
     },
     {
         "name": "Moules de Bouchot ",
-        "category":["seafood, clams"],
+        "category":["seafood", "clams"],
         "img":"https://cdn.tasteatlas.com/images/ingredients/073cdf8c6bd24611a6cb7e7298324762.jpg?mw=1300",
         "price":"20",
         "country":"French",
@@ -2585,7 +2585,7 @@
     },
     {
         "name": "Centolla Chilena",
-        "category":["seafood, crab"],
+        "category":["seafood", "crab"],
         "img":"https://cdn.tasteatlas.com/images/ingredients/f2264f61a87a499cbfd1332aeb5430da.jpg?mw=1300",
         "price":"15",
         "country":"Chile",
@@ -2594,7 +2594,7 @@
     },
     {
         "name": "Sydney Rock Oyster",
-        "category":["seafood, clams"],
+        "category":["seafood", "clams"],
         "img":"https://cdn.tasteatlas.com/images/ingredients/b21883ed83e5465bb7ae9c662af03c25.jpg?mw=1300",
         "price":"20",
         "country":"Australia",
@@ -2603,7 +2603,7 @@
     },
     {
         "name": "Yancheng Long Xia ",
-        "category":["seafood, crab"],
+        "category":["seafood", "crab"],
         "img":"https://cdn.tasteatlas.com/Images/Ingredients/accf7ec5fa4147a7b4b7124bc51241d8.jpg?mw=1300",
         "price":"25",
         "country":"Chinese",
@@ -2612,7 +2612,7 @@
     },
     {
         "name": "Guernsey Oysters",
-        "category":["seafood, clams"],
+        "category":["seafood", "clams"],
         "img":"https://cdn.tasteatlas.com/images/ingredients/0545454074f1487f951c290931dcd6de.jpg?mw=1300",
         "price":"17",
         "country":"Greece",
