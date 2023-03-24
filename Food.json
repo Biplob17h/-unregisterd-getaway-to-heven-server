@@ -1,0 +1,2748 @@
+[
+    {
+        "name": "SUSHI",
+        "category":["seafood", "rice"],
+        "img":"https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg",
+        "price":"15",
+        "country":"Japanese",
+        "dis":"Japan’s national dish, sushi, is a dish that uses vinegared rice.",
+        "delivery":"yes"
+    },
+    {
+        "name": "NIGIRIZUSHI SUSHI",
+        "category":["seafood", "fish", "rice"],
+        "img":"https://cookingwithdog.com/wp-content/uploads/2017/08/nigirizushi-00.jpg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"nigirizushi is a hand-pressed varson of sushi",
+        "delivery":"yes"
+    },
+    {
+        "name": "FUGU",
+        "category":["seafood", "fish"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/fugu-min.jpeg",
+        "price":"15",
+        "country":"Japanese",
+        "dis":"Fugu is pufferfish. Despite its lethal toxins, it’s a common item eaten regularly in Japan— most notably as sashimi.",
+        "delivery":"yes"
+    },
+    {
+        "name": "TONKATSU",
+        "category":["pork, deep-fry"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/tonkatsu-min.jpeg",
+        "price":"17",
+        "country":"Japanese",
+        "dis":"Tonkatsu is deep-fried Japanese pork cutlets. ",
+        "delivery":"no"
+    },
+    {
+        "name": "KARAAGE",
+        "category":["chicken, deep-fry"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/karaage-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Karaage is Japanese fried chicken, typically made with boneless chicken thighs.",
+        "delivery":"yes"
+    },
+    {
+        "name": "YAKITORI",
+        "category":["chicken, grill"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/yakitori-min.jpeg",
+        "price":"12",
+        "country":"Japanese",
+        "dis":"Yakitori is grilled chicken that’s served on skewers.",
+        "delivery":"no"
+    },
+    {
+        "name": "YAKINIKU",
+        "category":["meat, grill"],
+        "img":"https://www.lowcarbingasian.com/wp-content/uploads/2019/08/Japanese-Grilled-Beef-Yakiniku-2-LowCarbingAsain-Cover.jpg",
+        "price":"25",
+        "country":"Japanese",
+        "dis":"Yakiniku translates to “grilled meat,” and is the Japanese version of barbecuing meat and vegetables.",
+        "delivery":"no"
+    },
+    {
+        "name": "GYOZA",
+        "category":["meat, grill, deep-fry"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/gyoza-min.jpeg",
+        "price":"15",
+        "country":"Japanese",
+        "dis":"Gyoza is a pan-fried dumpling filled with ground meat and vegetables, and eaten with a simple dipping sauce.",
+        "delivery":"yes"
+    },
+    {
+        "name": "KOBE BEEF",
+        "category":["beef"],
+        "img":"https://www.thespruceeats.com/thmb/ZGuD7lAQ4F5LEG_TqU5zuoYpqP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wagyu-beef-vs-kobe-5090422-d779f7674c164ddbac2f01630c90701f.jpg",
+        "price":"40",
+        "country":"Japanese",
+        "dis":"Kobe beef is a delicacy, and usually pretty pricey due to its high quality and strict standards.",
+        "delivery":"yes"
+    },
+    {
+        "name": "ODEN",
+        "category":["fish, meat, vegetable,stew"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/oden-min.jpeg",
+        "price":"45",
+        "country":"Japanese",
+        "dis":"Oden is a type of Japanese food that content one bowl of fish meat vegetables stew",
+        "delivery":"no"
+    },
+    {
+        "name": "MISO SOUP",
+        "category":["soup"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/miso-soup-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Miso soup is a staple in Japanese meals, often served alongside a bowl of rice.",
+        "delivery":"yes"
+    },
+    {
+        "name": "ONIGIRI",
+        "category":["rice"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/onigiri-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Onigiri is a Japanese rice ball that comes in a variety of shapes, designs, and tastes. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "JAPANESE CURRY RICE",
+        "category":["curry, rice"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/curry-rice-min.jpeg",
+        "price":"20",
+        "country":"Japanese",
+        "dis":"Japanese Curry has the consistency of gravy and is typically milder and sweeter compared to Indian curry.",
+        "delivery":"yes"
+    },
+    {
+        "name": "DONBURI",
+        "category":["rice"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/donburi-min.jpeg",
+        "price":"12",
+        "country":"Japanese",
+        "dis":"Donburi is a Japanese rice bowl dish that consists of meat, fish, or vegetables served over rice.",
+        "delivery":"yes"
+    },
+    {
+        "name": "GYUDON",
+        "category":["rice, beef"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/gyudon-min.jpeg",
+        "price":"35",
+        "country":"Japanese",
+        "dis":"Gyudon is a Japanese beef and rice bowl with thinly sliced pieces of beef and onion served over hot, steamed rice.",
+        "delivery":"no"
+
+    },
+    {
+        "name": "KAISENDON",
+        "category":["seafood, rice"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/kaisendon-min.jpeg",
+        "price":"",
+        "country":"Japanese",
+        "dis":"Kaisendon is a seafood rice bowl that includes raw seafood (sashimi) over steamed rice.",
+        "delivery":"no"
+    },
+    {
+        "name": "OYAKODON",
+        "category":["rice, egg, chicken"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/oyakodon-min.jpeg",
+        "price":"20",
+        "country":"Japanese",
+        "dis":"Oyakodon is a rice bowl dish that includes chicken, egg, and scallions simmered together with a broth and served over rice.",
+        "delivery":"no"
+    },
+    {
+        "name": "SOBA",
+        "category":["noodle"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/soba-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Soba is a thin buckwheat noodle that is eaten either chilled (zaru soba) with a dipping sauce or hot in a broth.",
+        "delivery":"no"
+    },
+    {
+        "name": "UDON",
+        "category":["noodle"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/udon-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Udon is thick, Japanese noodles made from wheat flour that can be enjoyed both chilled with a dipping sauce or hot in a soup like soba.",
+        "delivery":"no"
+    },
+    {
+        "name": "RAMEN",
+        "category":["noodle meat, egg"],
+        "img":"https://wandereatwrite.com/usheeche/2021/03/tokyo-ramen.jpg",
+        "price":"20",
+        "country":"Japanese",
+        "dis":"Ramen is a noodle soup that has many variations across the country.",
+        "delivery":"no"
+    },
+    {
+        "name": "YAKISOBA",
+        "category":["noodle, vegetable"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/yakisoba-min.jpeg",
+        "price":"18",
+        "country":"Japanese",
+        "dis":"Yakisoba is Japanese stir fry noodles that include a combination of proteins and vegetables as well as a sweet sauce.",
+        "delivery":"no"
+    },
+    {
+        "name": "MELON PAN",
+        "category":["bread"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/melon-pan-min.jpeg",
+        "price":"5",
+        "country":"Japanese",
+        "dis":"Melon Pan is a sweet bread that has a crisp, cookie-like crust at the top with a grid design.",
+        "delivery":"yes"
+    },
+    {
+        "name": "MOCHI",
+        "category":["sweet, rice"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/mochi-min.jpeg",
+        "price":"5",
+        "country":"Japanese",
+        "dis":"Mochi is Japanese rice cakes made from a glutinous rice that’s pounded into a paste and molded.",
+        "delivery":"yes"
+    },
+    {
+        "name": "DANGO",
+        "category":["sweet, rice"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/dango-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Dango is sweet rice balls that are typically served skewered and found at street stalls or festivals.",
+        "delivery":"yes"
+    },
+    {
+        "name": "DAIFUKU",
+        "category":["sweet"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/ichigo-daifuku-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Daifuku is a small, filled mochi.The confection is typically stuffed with red bean paste (anko) and comes in either white, light green, or pale pink.",
+        "delivery":"yes"
+    },
+    {
+        "name": "NATTO",
+        "category":["bean"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/natto-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Natto is fermented soybeans that’s served with soy sauce and mustard, and eaten with rice.",
+        "delivery":"no"
+    },
+    {
+        "name": "OSECHI",
+        "category":["fish, seafood, meat, vegetable, beef"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/osechi-min.jpeg",
+        "price":"50",
+        "country":"Japanese",
+        "dis":"Osechi is a variety of traditional dishes eaten during the New Year.They’re often sold in special bento boxes and the ingredients tend to be very colorful.",
+        "delivery":"yes"
+    },
+    {
+        "name": "MATCHA",
+        "category":["tea"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/matcha-min.jpeg",
+        "price":"5",
+        "country":"Japanese",
+        "dis":"Matcha is a powder ground from green tea leaves.",
+        "delivery":"no"
+    },
+    {
+        "name": "Baozi",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/8343f1d8b80b49f3907090ef878bb449.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"One of China's favorite breakfast foods and an everyday snack.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Black Tea",
+        "category":["tea"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/06b032fd0ae74d42a999321584639b0e.jpg?mw=1300",
+        "price":"2",
+        "country":"Chinese",
+        "dis":"Black tea is a large and diverse category, and what differentiates it from other tea varieties is heavy oxidation.",
+        "delivery":"no"
+    },
+    {
+        "name": "Cellophane Noodles",
+        "category":["noodle"],
+        "img":"",
+        "price":"10",
+        "country":"Chinese",
+        "dis":" these thin noodles are made from water and starch extracted from mung beans, yams, cassava, or potato. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Tofu",
+        "category":["vegan"],
+        "img":"https://cdn.tasteatlas.com/Images/Ingredients/0c304a7def724c33bcb19f5f1985019e.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"Tofu is a unique vegan product, similar to cheese in texture, and made out of coagulated soy milk.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Jiaozi",
+        "category":["beef, vegetable"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/82fbbf7148654aa29148960471e86393.jpg?mw=1300",
+        "price":"25",
+        "country":"Chinese",
+        "dis":"These Chinese dumplings known as jiaozi, consisting of a thinly rolled piece of dough which contains either meat or a vegetable filling,",
+        "delivery":"no"
+    },
+    {
+        "name": "Soy Sauce",
+        "category":["sauce"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/5b20f94d42e840dc9d12bd567d8e6f2f.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"Used in China for more than 2,500 years, soy sauce is one of the world's oldest condiments, made by fermenting a combination of salt, ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Spring Rolls",
+        "category":["egg, pork, vegetable"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/7e44f5dd6dc547009fa957b89cb9bf19.jpg?mw=1300",
+        "price":"5",
+        "country":"Chinese",
+        "dis":"Spring rolls are traditional Chinese snacks consisting of thin sheets of dough that are filled with various ingredients, then deep-fried in hot oil.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Baijiu",
+        "category":["drink"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/277db61cd12e4655bf95a402a3a6ca8c.jpg?mw=1300",
+        "price":"",
+        "country":"Chinese",
+        "dis":"Baijiu is a national Chinese drink that is distilled from fermented grains, usually sorghum, wheat, rice, sticky rice, and corn.",
+        "delivery":"no"
+    },
+    {
+        "name": "Shaobing",
+        "category":["bread"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/47230a52a4e842d7acd7dc8cd1cd1eda.jpg?mw=1300",
+        "price":"2",
+        "country":"Chinese",
+        "dis":"shaobing is a type of layered flatbread, typically topped with sesame seeds. It is made with multiple layers of dough brushed with sesame paste and resembles a flattened bread roll.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Rice Vermicelli",
+        "category":["rice"],
+        "img":"https://cdn.tasteatlas.com/Images/Ingredients/0b8b189611ca423fbbd4ec550f840ed7.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"Rice vermicelli are thin noodles made from rice flour and water. They are often used in stir-fries, salads, or soups.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chow mein",
+        "category":["noodle, deep-fry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/31b6fc6d28e046f9833a6d5e2d15d2e8.jpg?mw=1300",
+        "price":"15",
+        "country":"Chinese",
+        "dis":"Chau mein is one of the most famous fried noodles in China. It  name comes from the Mandarin chǎomiàn and Taishanese chāu-mèing (lit. fried noodles).",
+        "delivery":"yes"
+    },
+    {
+        "name": "Green Tea",
+        "category":["tea"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/e51a33e45a4e4450b75c5bd3697c05bc.jpg?mw=1300",
+        "price":"2",
+        "country":"Chinese",
+        "dis":"Green tea is a non-oxidized tea that is characterized by its bright green color and fresh herbaceous notes.",
+        "delivery":"no"
+    },
+    {
+        "name": "Shabu-shabu",
+        "category":["beef, meat, duck"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/a0d38863c302465897167dde250dbcb1.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"Shabu-shabu is a popular Japanese dish consisting of thinly sliced meat and vegetables cooked in water. The dish is an evolved version of the traditional Mongolian nabemono (one-pot) cooking.",
+        "delivery":"no"
+    },
+    {
+        "name": "Manju",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/fea3e4a030d14a499d5cd83d4016752d.jpg?mw=1300",
+        "price":"",
+        "country":"Chinese",
+        "dis":"Manjū is a steamed Japanese confectionery product shaped into various forms and incorporating different ingredients and flavors.",
+        "delivery":"no"
+    },
+    {
+        "name": "Sichuan Pepper",
+        "category":["bean"],
+        "img":"https://cdn.tasteatlas.com/Images/Ingredients/d014f13e3ff347bca912024d66023f23.jpg?mw=1300",
+        "price":"5",
+        "country":"Chinese",
+        "dis":"Despite its name, Sichuan pepper is actually not a pepper, but dried berry of a type of ash shrub that has a unique peppery and lemony aroma. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Sweet and Sour Sauce",
+        "category":["sauce"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/808c3dc81a7b419e8957ee78eec76cfb.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"Sweet and sour sauce is usually associated with the authentic Chinese combination of rice vinegar and sugar.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pào cài",
+        "category":["vegetable"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/0b8f16ebffc949f2b9665c5f7261cff4.jpg?mw=1300",
+        "price":"8",
+        "country":"Chinese",
+        "dis":"Served as an appetizer, palate freshener, or a side dish, pào cài is a Sichuan-style pickle made with various vegetables",
+        "delivery":"no"
+    },
+    {
+        "name": "Century Egg",
+        "category":["egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/559347f0b0ed43349099de96d5184b7e.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"Century egg is a Chinese delicacy made by preserving duck, quail, or chicken eggs in a saline solution that consists of salt, clay, and sometimes ash, quicklime, or rice hulls.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Kung Pao Chicken",
+        "category":["chicken"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/91e1f0236e414f9dbaefe548f5384a20.jpg?mw=1300",
+        "price":"16",
+        "country":"Chinese",
+        "dis":"A staple of westernized Chinese cuisine and one of the favorite dishes of foreigners in China, kung pao chicken is a spicy stir-fry dish made with diced chicken, vegetables, peanuts, and Sichuan peppercorns.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Kombucha",
+        "category":["tea"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/4567e8ae3baf408c8a51bd588480cbaf.jpg?mw=1300",
+        "price":"8",
+        "country":"Chinese",
+        "dis":"Kombucha is an effervescent fermented drink usually made with black or green tea.",
+        "delivery":"no"
+    },
+    {
+        "name": "Mapo doufu",
+        "category":["beef, vegetable"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/8738dc28f1824697b53a1852456ccff5.jpg?mw=1300",
+        "price":"37",
+        "country":"Chinese",
+        "dis":"Sichuan in origin, mapo doufu consists of tofu cubes settled in a spicy sauce containing minced meat, traditionally beef, and fermented black beans known as douchi.",
+        "delivery":"no"
+    },
+    {
+        "name": "Dan Dan Noodles",
+        "category":["noodle"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/148ba9db636c40f699567b013e9828c5.jpg?mw=1300",
+        "price":"20",
+        "country":"Chinese",
+        "dis":"Traditional dan dan noodles are a true classic of Chinese cuisine. The star of the dish is a spicy sauce served with the noodles. ",
+        "delivery":"no"
+    },
+    {
+        "name": "Peking Duck",
+        "category":["duck, sauce"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/d8c9977734d040b3bed4e29caff5b2b2.jpg?mw=1300",
+        "price":"",
+        "country":"Chinese",
+        "dis":"The history of Peking duck goes back to China's Yuan Dynasty of the 13th century. Bianyifang, Beijing's oldest restaurant specializing in Peking duck has been in business since the Jiajing reign of the 16th century",
+        "delivery":"yes"
+    },
+    {
+        "name": "Har gow",
+        "category":["pork"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/c579bcc9409141b7a4878c4e75c53de3.jpg?mw=1300",
+        "price":"13",
+        "country":"Chinese",
+        "dis":"Har gow is a Cantonese dumpling characterized by a delicate, translucent wrapper enveloped around a shrimp filling.",
+        "delivery":"no"
+    },
+    {
+        "name": "Oolong",
+        "category":["tea"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/40bd19ce16724b13bfd9055de89f09fe.jpg?mw=1300",
+        "price":"5",
+        "country":"Chinese",
+        "dis":"Oolong is a semi-oxidized tea that can vary depending on the leaf style, level of oxidation, color, and the roasting degree.",
+        "delivery":"no"
+    },
+    {
+        "name": "Orange Chicken",
+        "category":["chicken, egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/4cc2758bb1354d4e8b1e018105767fed.jpg?mw=1300",
+        "price":"30",
+        "country":"Chinese",
+        "dis":"Orange chicken is an American-Chinese dish that was invented as a variation on General Tso's chicken.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Shumai",
+        "category":["egg, pork"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/9a1dd20923f6437aa939f9aa9a2ea8a0.jpg?mw=1300",
+        "price":"15",
+        "country":"Chinese",
+        "dis":"Shumai, literally translated as to cook and sell, is a staple of dim sum cuisine consisting of an open-topped dumpling filled with steamed ground pork, and sometimes finely chopped shrimp or Chinese black mushrooms.",
+        "delivery":"no"
+    },
+    {
+        "name": "Jianbing",
+        "category":["roll"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/f39430e2250744f1a13669aa4afd094f.jpg?mw=1300",
+        "price":"5",
+        "country":"Chinese",
+        "dis":"jianbing or fried pancake is a thin and savory crêpe-like pancake that is made by spreading batter over a hot, cast-iron slab with a wooden paddle.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Egg Tart",
+        "category":["egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/7215c17478d54e7f9d4f77102cd1a51c.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"One of the most famous Chinese desserts is the classic egg tart, a delicious pastry consisting of a flaky outer shell with a creamy, but firm egg custard in the center.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chinese Mitten Crab",
+        "category":["meat, seafood, crab"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/de827a7d5f0a4a46a4e7a162de35e118.jpg?mw=1300",
+        "price":"12",
+        "country":"Chinese",
+        "dis":"Easily identifiable by the patches of scruffy dark hair on its claws, the succulent, moist, and meaty Shanghai hairy crab is a delicacy that is large as an adult person's palm. Its flesh is firm, yet tender and delicate",
+        "delivery":"yes"
+    },
+    {
+        "name": "Lo mein",
+        "category":["noodle, egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/c8d8acba065a488c9447cde581338c59.jpg?mw=1300",
+        "price":"15",
+        "country":"Chinese",
+        "dis":"Another classic of Chinese cuisine, Guangdongese lo mein or laomian (lit. stirred noodles) refers to any kind of dish made with separately boiled wheat and egg noodles ",
+        "delivery":"yes"
+    },
+    {
+        "name": "General Tso's Chicken",
+        "category":["chicken, deep-fry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/fd4840acb1644957923f87ca6823d7a0.jpg?mw=1300",
+        "price":"20",
+        "country":"Chinese",
+        "dis":"General Tso’s chicken is a Chinese-American sweet and spicy dish consisting of chicken dices that are first deep-fried.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Yangzhou Fried Rice",
+        "category":["rice, egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/45e5473ffdea4c658aa74b47f3065ea7.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"Yangzhou fried rice is a Chinese dish consisting of rice, eggs, and vegetables such as carrots, mushrooms, peas, while the common additions also include shrimps, meat, scallions, and Chinese ham",
+        "delivery":"yes"
+    },
+    {
+        "name": "Liangpi",
+        "category":["noodle"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/0a6486d00c474a19af2d31f4618cc8fd.jpg?mw=1300",
+        "price":"10",
+        "country":"Chinese",
+        "dis":"Liangpi is a noodle dish that originated in China's Shaanxi province.this is one of China's popular noodles dish.",
+        "delivery":"no"
+    },
+    {
+        "name": "Twice Cooked Pork",
+        "category":["pork"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e791f0ac7dde4e568b2c90d76c201862.jpg?mw=1300",
+        "price":"25",
+        "country":"Chinese",
+        "dis":"Twice cooked pork is a Sichuan specialty prepared by cooking fatty pork leg or belly (with the skin intact) in two different ways. Pork is first simmered in a pot and cooled in the refrigerator in order for the meat and fat to firm up.",
+        "delivery":"no"
+    },
+    {
+        "name": "Corn & Cauliflower Soup",
+        "category":["soup"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/corn-cauliflower-soup.jpg",
+        "price":"10",
+        "country":"Continental",
+        "dis":"A gorgeous, thick and creamy soup native to the corn producing countries this will definitely make you winter delicious, comfortable and warm.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chicken & Cheese Salad",
+        "category":["chicken"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/chicken-cheese-salad.jpg",
+        "price":"15",
+        "country":"Continental",
+        "dis":"It’s as tasty as it can get; a sparkling salad with tender chicken breasts and cheese tossed and mixed in salt, pepper and a generous amount of mayonnaise.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Paneer Steak",
+        "category":["deep-fry"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/paneer-steak.jpg",
+        "price":"20",
+        "country":"Continental",
+        "dis":"Let us give an Indian touch to Europe. What’s more Indian than Paneer? I can’t come up with anything!",
+        "delivery":"yes"
+    },
+    {
+        "name": "Eggy Bread Blt",
+        "category":["egg"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/eggy-bread-blt.jpg",
+        "price":"13",
+        "country":"Continental",
+        "dis":"Have problem deciding breakfast or snacks? Well when it’s teatime you must admire British. Here’s an authentic British teatime dish for you.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Batter Fish",
+        "category":["fish"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/batter-fish.jpg",
+        "price":"10",
+        "country":"Continental",
+        "dis":"Fish and chips? British and a common take away food. Easy on time and easy on stomach. All you need for this fish batter is flour, salt, baking powder, milk, and water.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Grilled Chicken Breasts With Chilies & Lemongrass",
+        "category":["chicken, grill"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/grilled-chicken-breasts-with-chillis-lemongrass.jpg",
+        "price":"20",
+        "country":"Continental",
+        "dis":"Grilled Chicken rustled up with lemongrass and chillies with some red wine sauce to top the dish makes it absolutely stunning.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Cheese Fondue",
+        "category":["cheese"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/cheese-fondue.jpg",
+        "price":"15",
+        "country":"Continental",
+        "dis":"Fondue is basically a Swiss dish made with molten cheese. For the entire cheese lover, Emmenthaler and Gruyere cheese melted and drizzled with some white wine.",
+        "delivery":"no"
+    },
+    {
+        "name": "Broccoli Bake",
+        "category":["vegetable"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/broccoli-bake.jpg",
+        "price":"10",
+        "country":"Continental",
+        "dis":"Who likes Broccoli ? One in a hundred may be. Rest assure this dish going to change your perspective on Broccoli",
+        "delivery":"no"
+    },
+    {
+        "name": "Macaroni Cheese",
+        "category":["cheese"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/macaroni-cheese.jpg",
+        "price":"20",
+        "country":"Continental",
+        "dis":"Macaroni and Cheese, both are great comfort food. Macaroni mingled in a milky cheesy sauce, makes for a complete and satisfying meal.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Baked Mushrooms & Spinach",
+        "category":["mushroom"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/baked-mushrooms-spinach.jpg",
+        "price":"14",
+        "country":"Continental",
+        "dis":"Mushrooms and spinach are initially sauted together in butter. A creamy white sauce is poured over it, topped with tomato slices and grated cheese. Baked in the oven till golden.",
+        "delivery":"no"
+    },
+    {
+        "name": "Buttered Potatoes",
+        "category":["potato"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/buttered-potatoes.jpg",
+        "price":"10",
+        "country":"Continental",
+        "dis":"Mashed potatoes simmered in milk, butter and nutmeg. Served with a homemade whole grain mustard for better taste and health too.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chilly Garlic Wings",
+        "category":["chicken"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/chilly-garlic-wings.jpg",
+        "price":"15",
+        "country":"Continental",
+        "dis":"The Chicken Wings are richly coated with marinated garlic and chilly. This marinated chicken is then baked and served.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Cream Potato Salad",
+        "category":["potato"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/cream-potato-salad.jpg",
+        "price":"13",
+        "country":"Continental",
+        "dis":"It is nothing but a rich potato salad with loads of mayonnaise and with a little addition of cream.",
+        "delivery":"no"
+    },
+    {
+        "name": "Chicken Roast",
+        "category":["chicken, roast"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/sunday-chicken-roast.jpg",
+        "price":"25",
+        "country":"Continental",
+        "dis":"The basic roasted chicken which is enchanting, succulent and downright delicious.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chickpea Soup",
+        "category":["soup"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/chickpea-soup.jpg",
+        "price":"13",
+        "country":"Continental",
+        "dis":"Warm and comfortable chickpea soup enhanced with leeks, celery, zucchini, squash, bell peppers and white wine flavours for even better taste.",
+        "delivery":"no"
+    },
+    {
+        "name": "Corn & Raw Mango Salad",
+        "category":["vegetable"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/corn-raw-mango-salad.jpg",
+        "price":"10",
+        "country":"Continental",
+        "dis":"Corn and mango sounds summer right? What? Yes it is. You got to try this one though.",
+        "delivery":"no"
+    },
+    {
+        "name": "Honey & Whole Grain Mustard Chicken",
+        "category":["chicken"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/honey-whole-grain-mustard-chicken.jpg",
+        "price":"20",
+        "country":"Continental",
+        "dis":"Chicken marinated in honey and homemade mustard paste, baked till tender.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Barbequed Chicken",
+        "category":["chicken, barbeque"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/barbequed-chicken.jpg",
+        "price":"14",
+        "country":"Continental",
+        "dis":"Well Barbeque is mostly associated with summers but here picnic means winter. What is better than a barbeque in picnic?",
+        "delivery":"yes"
+    },
+    {
+        "name": "French Fries",
+        "category":["deep-fry, potato"],
+        "img":"https://www.crazymasalafood.com/wp-content/images/20-most-loved-continental-recipes/french-fries.jpg",
+        "price":"10",
+        "country":"Continental",
+        "dis":"These define Snacks! French fries make snacking, a much better experience. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Egg Or Eggless Pancakes",
+        "category":["egg, pancake"],
+        "img":"",
+        "price":"",
+        "country":"Continental",
+        "dis":"Whether you are a vegetarian or a non-vegetarian; you have to have interest regarding pancakes",
+        "delivery":"yes"
+    },
+    {
+        "name": "Roti",
+        "category":["naan"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/1bd5e63b79b344ef9b56cc6480470dba.jpg?mw=1300",
+        "price":"1",
+        "country":"Indian",
+        "dis":"Roti is a flat and unleavened bread made with wholemeal flour. It is traditionally cooked on an iron griddle called tava, an important vessel in the Indian cuisine. In Indian cuisine,",
+        "delivery":"yes"
+    },
+    {
+        "name": "plane naan",
+        "category":["naan"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/8f5e5f67af2541ac8008637115b7c104.jpg?mw=1300",
+        "price":"1",
+        "country":"Indian",
+        "dis":"Naan is a unique and popular flatbread with a chewy texture that has its roots in India. The first documented traces of naan are found in the 1300 AD notes of Amir Kushrau.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Biryani",
+        "category":["rice, chicken"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/8fd2297171484b88be3e3e6815979690.jpg?mw=1300",
+        "price":"15",
+        "country":"Indian",
+        "dis":"Biryani is a group of classic dishes dating back to the Mughal Empire. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Dal",
+        "category":["stew"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/fae65ee13027459b9f0b6793fb97634b.jpg?mw=1300",
+        "price":"5",
+        "country":"Indian",
+        "dis":"This flavorful and highly nutritious national dish of India is especially popular in southern parts of the country, ",
+        "delivery":"no"
+    },
+    {
+        "name": "Tandoori",
+        "category":["roast"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/7f5792f3a5fa48daa65c345f236b34d1.jpg?mw=1300",
+        "price":"20",
+        "country":"Indian",
+        "dis":"The most popular Indian dishes are those cooked over a blazing fire in the so-called tandoor, a cylindrical open-top clay oven fueled by wood or charcoal.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Butter Chicken",
+        "category":["chicken"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/f110acd777ca43889ceafb24c17f752d.jpg?mw=1300",
+        "price":"23",
+        "country":"Indian",
+        "dis":"Probably the best known of all Indian dishes, butter chicken, also known as murgh makhani, is a staple dish at most Indian restaurants",
+        "delivery":"yes"
+    },
+    {
+        "name": "Korma",
+        "category":["stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e09bd6bd69a94959a51f88f086b446c5.jpg?mw=1300",
+        "price":"15",
+        "country":"Indian",
+        "dis":"Korma is a creamy meat stew (although it could also be made in a vegetarian version) with a mild flavor.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Tikka",
+        "category":["chicken"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/86a6a97ee81c40f8adc25066215a62d1.jpg?mw=1300",
+        "price":"10",
+        "country":"Indian",
+        "dis":"Indian tikka is a dish consisting of boneless meat, usually chicken, that is cut into smaller pieces and marinated in yogurt and traditional Indian spices such as turmeric, cumin, coriander, cayenne pepper,",
+        "delivery":"yes"
+    },
+    {
+        "name": "Tandoori Chicken",
+        "category":["chicken, barbeque"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/bdab2e7920f0409188d0b3646826893a.jpg?mw=1300",
+        "price":"20",
+        "country":"Indian",
+        "dis":"Tandoori chicken or tandoori murgh is one of the most popular dishes in Indian cuisine, its name derived from the Persian word tannur, meaning fire.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Paratha",
+        "category":["naan"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/7053f1036e63478db68ce8ba7583b39e.jpg?mw=1300",
+        "price":"1",
+        "country":"Indian",
+        "dis":"Golden-brown in color, flaky and layered, paratha is a type of Indian bread that is typically consumed for breakfast.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Dosa",
+        "category":["roll"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/b1e9054ebc86490ebef27f3e791ccee4.jpg?mw=1300",
+        "price":"2",
+        "country":"Indian",
+        "dis":"The thin pancake known as dosa is one of the most famous Indian dishes. It is made with soaked rice and black gram beans,",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chapati",
+        "category":["naan"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/4e46fbe524c444f7a131f2187c61b6ec.jpg?mw=1300",
+        "price":"1",
+        "country":"Indian",
+        "dis":"Chapati is an unleavened flatbread made with whole wheat flour, water, and salt. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Vindaloo",
+        "category":["curry, chicken, beef"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/6c8eab762bef45d4be6082f76f740c65.jpg?mw=1300",
+        "price":"14",
+        "country":"Indian",
+        "dis":"Vindaloo is a flavorful curry dish that is popular in England and the Indian regions of Goa and Konkan. ",
+        "delivery":"no"
+    },
+    {
+        "name": "Samosa",
+        "category":["deep-fry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e668e32ae1a3423c95fbd4d77f8c940c.jpg?mw=1300",
+        "price":"1",
+        "country":"Indian",
+        "dis":"Due to their crunchy texture and a variety of different flavors, samosas provide a perfect introduction to the world of Indian cuisine for newcomers.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Kheer",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/bae67efebeaa47f9947a81c4c0f2fd91.jpg?mw=1300",
+        "price":"13",
+        "country":"Indian",
+        "dis":"Kheer or payasam is an ancient Indian dessert, a creamy rice pudding that is made in several versions across the country.",
+        "delivery":"no"
+    },
+    {
+        "name": "Vada pav",
+        "category":["potato, bread"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/4f894f659d174f94bc78ad5da33dd860.jpg?mw=1300",
+        "price":"4",
+        "country":"Indian",
+        "dis":"Vada pav is one of Mumbai's favorite sandwiches, its name referring to the key ingredients: vada, or spicy mashed potatoes that are deep-fried in chickpea batter, and pav, or white bread rolls.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khichdi",
+        "category":["rice"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/d4baa4764df440a4ae6c4bf44dcdff6a.jpg?mw=1300",
+        "price":"10",
+        "country":"Indian",
+        "dis":"Khichdi is a South Asian dish consisting of rice and lentils, its name derived from the Sanskrit khiccā, denoting a dish of rice and legumes. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pulao",
+        "category":["rice, chicken"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/eb41273945744da0b8357a9726625250.jpg?mw=1300",
+        "price":"14",
+        "country":"Indian",
+        "dis":"Pilaf is a staple of Middle Eastern cuisine, a dish made with rice, cracked wheat, couscous, or bulgur.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Hyderabadi biryani",
+        "category":["meat, chicken"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/3bd6dfaf53e244dfb7f3ee390447a2f8.jpg?mw=1300",
+        "price":"20",
+        "country":"Indian",
+        "dis":"Hyderabadi biryani is a South Indian dish consisting of basmati rice, goat, mutton, or chicken meat, lemon, yogurt, onions, and saffron.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Upma",
+        "category":["rice"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e4e3193046014f5bb9d0b6dc838d0f53.jpg?mw=1300",
+        "price":"9",
+        "country":"Indian",
+        "dis":"Upma is a wholesome Indian dish made with dry semolina or rice flour, cooked into a thick porridge. Traditionally served hot for breakfast.",
+        "delivery":"no"
+    },
+    {
+        "name": "Panipuri",
+        "category":["deep-fry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/b01fa4c9920d42df9ef472fd4f8e6fda.jpg?mw=1300",
+        "price":"1",
+        "country":"Indian",
+        "dis":"Panipuri is a street snack that is extremely popular in India, Bangladesh, Pakistan, and Nepal. ",
+        "delivery":"no"
+    },
+    {
+        "name": "Sambar",
+        "category":["stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/91fa968808234ac0bd4b6007bda75b9f.jpg?mw=1300",
+        "price":"10",
+        "country":"Indian",
+        "dis":"Sambar is a popular curry dish prepared with a tamarind-based broth, lentils, and vegetables. It originates from Tamil Nadu, but it is also very popular in Sri Lanka and throughout South India.",
+        "delivery":"no"
+    },
+    {
+        "name": "Palak paneer",
+        "category":["vegetable, stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/bf95ebff1c834a3ea53765da29f13423.jpg?mw=1300",
+        "price":"7",
+        "country":"Indian",
+        "dis":"Palak paneer is a popular Indian vegetarian dish made with paneer cheese in a rich, thick sauce consisting of puréed spinach mixed with tomatoes, garam masala, garlic, and numerous spices",
+        "delivery":"no"
+    },
+    {
+        "name": "Dal makhani",
+        "category":["stew"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/0a3f1b0d231b43e497f33ae5506bb46c.jpg?mw=1300",
+        "price":"9",
+        "country":"Indian",
+        "dis":"Although it originated in Punjab, dal makhani has become one of the most popular Indian lentil dishes, both in the country and outside of its borders.",
+        "delivery":"no"
+    },
+    {
+        "name": "Keema",
+        "category":["chicken, meat"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/aed15b96c6384aef89ce3cefd4e6196d.jpg?mw=1300",
+        "price":"10",
+        "country":"Indian",
+        "dis":"Keema is a stew that is usually prepared as a curry with ingredients such as minced lamb or goat meat, green peas, potatoes, ginger, chili, onions, ghee, garlic, and garam masala spices",
+        "delivery":"yes"
+    },
+    {
+        "name": "Papadum",
+        "category":["bread"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/824335caa36140c6ae24be176b2d2a5e.jpg?mw=1300",
+        "price":"1",
+        "country":"Indian",
+        "dis":"Papadum is an Indian snack made with either lentil, gram, rice, or chickpea flour that is baked into a thin, crispy cracker bread.",
+        "delivery":"no"
+    },
+    {
+        "name": "Ras malai",
+        "category":["sweet, stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/b53ee1a62b704a36b63361822681ed47.jpg?mw=1300",
+        "price":"6",
+        "country":"Indian",
+        "dis":"Ras malai is a popular Indian dessert consisting of white cream, sugar, milk, and cardamom-flavored paneer cheese known as chhana.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Gulab jamun",
+        "category":["sweet, stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/23fba80da08c46ceba5a99a5b1f1f200.jpg?mw=1300",
+        "price":"6",
+        "country":"Indian",
+        "dis":"Gulab jamun is a dessert based on milk solids that are kneaded into a dough, shaped into balls, and deep-fried in ghee. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chicken 65",
+        "category":["chicken, egg"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/55f00ba4fe8746a68b8ad62b24226e3b.jpg?mw=1300",
+        "price":"23",
+        "country":"Indian",
+        "dis":"Chicken 65 is a classic poultry dish with origins in Chennai, India. It consists of deep-fried chicken that is marinated in ginger, lemon, red chiles, and a variety of other spices.",
+        "delivery":"no"
+    },
+    {
+        "name": "Kulfi",
+        "category":["ice-cream"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/4a010c16485443269d74305e0aef50a6.jpg?mw=1300",
+        "price":"10",
+        "country":"Indian",
+        "dis":"Kulfi is a traditional Indian ice cream made with slowly simmered whole milk. Although the long-simmering process results in a loss of volume.",
+        "delivery":"no"
+    },
+    {
+        "name": "Masala dosa",
+        "category":["roll"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/ba7bab747c7e41769dbc895a84626a23.jpg?mw=1300",
+        "price":"5",
+        "country":"Indian",
+        "dis":"A traditional southern Indian dish known as masala dosa is popular throughout the country.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pav bhaji",
+        "category":["bread, stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/081e0170e376406aa4b56f5b86cc3156.jpg?mw=1300",
+        "price":"8",
+        "country":"Indian",
+        "dis":"Pav bhaji is a popular street snack originating from the Indian state of Maharashtra. It consists of a vegetable curry that is typically served with a soft bread roll known as pav.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Puri",
+        "category":["naan"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/9d3c2351d9814a4daba235d7bf7c79f2.jpg?mw=1300",
+        "price":"1",
+        "country":"Indian",
+        "dis":"Puri is an unleavened, fried Indian bread made with water, finer or coarser wheat flour, and occasionally cumin seeds.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Rasgulla",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e6cf19f46477499aa082529874a5e11d.jpg?mw=1300",
+        "price":"4",
+        "country":"Indian",
+        "dis":"Rasgulla is a traditional sweet that is usually served at the end of a meal, like many other Indian milk-based desserts",
+        "delivery":"yes"
+    },
+    {
+        "name": "Raita",
+        "category":["stew, vegetable"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/2e3ac247a441416ca9b22d648fe3a708.jpg?mw=1300",
+        "price":"7",
+        "country":"Indian",
+        "dis":"Raita is a popular Indian side dish or a condiment made by combining thick yogurt with different fruits, vegetables, and spices, so it can be either sweet or savory and spicy.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Saag paneer",
+        "category":["vegetable, vegan"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/9662d774c41a476bb4ff9379f919c3e7.jpg?mw=1300",
+        "price":"8",
+        "country":"Indian",
+        "dis":"Indian saag paneer is a famous vegetable curry which incorporates diced paneer cheese doused in a creamy mixture of fresh leafy greens.",
+        "delivery":"no"
+    },
+    {
+        "name": "Barfi",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/fde987b6024d4c5ab3c2bc4caf860e31.jpg?mw=1300",
+        "price":"5",
+        "country":"Indian",
+        "dis":"Even though its name originates from Persia, barfi is an original Indian dessert which resembles a fudge.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Shahi paneer",
+        "category":["stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/56ff328667ef4dc6a883398c519b9622.jpg?mw=1300",
+        "price":"10",
+        "country":"Indian",
+        "dis":"Originating from India's Moghul cuisine, shahi paneer is a cheese curry that is prepared with paneer cheese, onions, almond paste, and a rich, spicy tomato-cream sauce.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Dal tadka",
+        "category":["stew"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg?mw=1300",
+        "price":"8",
+        "country":"Indian",
+        "dis":"Dal tadka or tadkewali dal is a traditional lentil-based dish originating from the northern parts of India.",
+        "delivery":"no"
+    },
+    {
+        "name": "Rogan josh",
+        "category":["meat"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/99d92862af9a42a2973a8213144f39ca.jpg?mw=1300",
+        "price":"10",
+        "country":"Indian",
+        "dis":"Rogan josh is an aromatic lamb curry that is believed to be of Persian origin, although today it is more closely associated with the Kashmir region of India. ",
+        "delivery":"no"
+    },
+    {
+        "name": "Risotto",
+        "category":["rice"],
+        "img":"https://cdn.tasteatlas.com//images/dishes/70f5cf7e2f2540dcb0452825b0971837.jpg?w=905&h=510",
+        "price":"10",
+        "country":"Italan",
+        "dis":"This widely popular and extremely versatile group of dishes consists of a base of rice and stock.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Tagliatelle al ragù alla Bolognese",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/8889349736294b0a929b69eb29d67dad.jpg?mw=1300",
+        "price":"15",
+        "country":"Italan",
+        "dis":"Tagliatelle al ragù alla Bolognese is a traditional Italian dish originating from Bologna, consisting of tagliatelle pasta and a rich ragù made with beef (and sometimes pork) and tomatoes as key ingredients",
+        "delivery":"no"
+    },
+    {
+        "name": "Pasta carbonara",
+        "category":["egg, pork"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/79b072c652ba423eb4de617b9b51a399.jpg?mw=1300",
+        "price":"13",
+        "country":"Italan",
+        "dis":"The carbonara we know today is prepared by simply tossing spaghetti with guanciale (cured pork jowl), egg yolks, and Pecorino Romano cheese.",
+        "delivery":"no"
+    },
+    {
+        "name": "Gnocchi",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/1efb92c5cefe46ab9b8d3c5d64ea6dff.jpg?mw=1300",
+        "price":"10",
+        "country":"Italan",
+        "dis":"This is the traditional Italian form of dumplings.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ravioli",
+        "category":["egg"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/b8dbe53b1e594d5d92c04ce61537898e.jpg?mw=1300",
+        "price":"10",
+        "country":"Italan",
+        "dis":"The word ravioli denotes various kinds of pasta made by placing a filling between two thin layers of dough.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Tiramisù",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/468fa931d3004dd4b20f567cfb37c8b8.jpg?mw=1300",
+        "price":"13",
+        "country":"Italan",
+        "dis":"Even though tiramisù is actually a fairly recent invention, this dessert of coffee-soaked ladyfingers layered with mascarpone cream enjoys an iconic status among Italian desserts.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pizza Napoletana ",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/785295d4ab6f4f0bab43d5fcf2e123b6.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"Italy’s most emblematic culinary creation, the genuine pizza Napoletana is made with just a few simple ingredients and prepared in only two variations ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Bruschetta",
+        "category":["bread"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/eeeabf62647b459391edfd213800583b.jpg?mw=1300",
+        "price":"8",
+        "country":"Italan",
+        "dis":"Bruschetta is a traditional Italian appetizer that's nowadays popular throughout the world. ",
+        "delivery":"no"
+    },
+    {
+        "name": "Pizza Margherita ",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/3b95e478a76a48a0897c6724d32e2509.jpg?mw=1300",
+        "price":"15",
+        "country":"Italan",
+        "dis":"Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Panna cotta ",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/2a90d091d96047069c33b2a91e480610.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"Simplicity at its finest, this softly set pudding takes almost no effort to make, yet is nothing short of amazing! ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Carpaccio",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/e6cfb28c91114888845f8ebc5d4d6ee7.jpg?mw=1300",
+        "price":"10",
+        "country":"Italan",
+        "dis":"This traditional Italian dish of worldwide fame is typically served as an appetizer, and consists of very thin slices of raw meat served on a plate with olive oil, cheese shavings, and lemon.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Focaccia",
+        "category":["bread"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/b1b1e7ef350d46d986d5600ee5fae7fd.jpg?mw=1300",
+        "price":"8",
+        "country":"Italan",
+        "dis":"This chewy, oily flatbread is quite versatile, and can be topped with a range of ingredients such as coarse sea salt, olive oil, herbs, tomatoes, or olives. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Cannoli",
+        "category":["roll"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/c07579e068274383a2ab5b116b5df5c4.jpg?mw=1300",
+        "price":"5",
+        "country":"Italan",
+        "dis":"These decadent, crispy fried pastry tubes filled with luscious ricotta cheese cream are perhaps one of Sicily's best known desserts outside of Italy.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Minestrone",
+        "category":["stew, soup"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/70a2d53e32ad430ebe307bbd63a941cf.jpg?mw=1300",
+        "price":"14",
+        "country":"Italan",
+        "dis":"One of the very bases of traditional Italian cuisine, minestrone is a thick, chunky soup made with whichever vegetables are in season. ",
+        "delivery":"no"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/d8cf5af177274c3d9760ed59e92d3ec0.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"This rich and filling piatto unico (lit. single plate; one-dish meal) is traditionally made from layers of homemade beff.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Grissini",
+        "category":[""],
+        "img":"https://cdn.tasteatlas.com/images/dishes/f65e4c13c7f94d908a49992fcbf536db.jpg?mw=1300",
+        "price":"5",
+        "country":"Italan",
+        "dis":"Grissini are traditional Italian breadsticks with origins in Torino, Piemonte, a region in northwestern Italy.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Crostini",
+        "category":["bread"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/4e67bf18c38c4e8cbb36617b827ade5f.jpg?mw=1300",
+        "price":"9",
+        "country":"Italan",
+        "dis":"Crostini are a group of Italian appetizers consisting of small pieces of toasted or grilled bread topped with a variety of flavorful toppings.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Parmigiana",
+        "category":["vegetable"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e8a5cb3b7220453b809890fe5d4ca1a5.jpg?mw=1300",
+        "price":"10",
+        "country":"Italan",
+        "dis":"Found throughout southern Italy, parmigiana di melanzane is a type of gratinated vegetable casserole traditionally made of fried or grilled slices of eggplant layered with basil-flavored tomato sauce.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Calzone Pizza",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/2dd9d07402f9404bb1149da811a0c42d.jpg?mw=1300",
+        "price":"18",
+        "country":"Italan",
+        "dis":"This unique type of pizza is characterized by its half-round shape, made by folding a full-sized pizza in half. Hailing from 18th century Naples.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Spaghetti alle vongole",
+        "category":["seafood, clams"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/df1dc40d4e1d46a485f263585ee6421c.jpg?mw=1300",
+        "price":"14",
+        "country":"Italan",
+        "dis":"Quick and easy to prepare, yet packing some serious flavor, spaghetti alle vongole is a traditional Neapolitan dish consisting of only two key ingredients: vongole clams and pasta.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Caprese Pizza",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/5c9ef8900b4d4afc8313a2e282574b7f.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"This is a variety of Italian pizza that is traditionally topped with cherry tomatoes, mozzarella di bufala, olive oil, and fresh basil leaves",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pizza marinara",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/5560ca794b7d49f7bdbfc1c27d65b39d.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"Marinara is a Neapolitan pizza with a topping of tomatoes, oregano, garlic, extra virgin olive oil, and sometimes fresh basil. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Frittata",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/8884c33e586b472eae8b3e3fe05959dc.jpg?mw=1300",
+        "price":"18",
+        "country":"Italan",
+        "dis":"Frittata is a traditional Italian flat and round egg-based dish that's closer to a Spanish tortilla than to a French omelette.",
+        "delivery":"no"
+    },
+    {
+        "name": "Caprese Salad",
+        "category":["vegetable"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/2eea345a053b406495d51e502d3f70ef.jpg?mw=1300",
+        "price":"10",
+        "country":"Italan",
+        "dis":"Nothing embodies the essence of summer in southern Italy like vibrant colors of the flavorful insalata Caprese, a true classic of Neapolitan cuisine.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pizza capricciosa",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/6b28b438a3b64a7e9fca9081c89f07ff.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"The name of this pizza literally translates to capricious, and seems quite appropriate, considering that the toppings tend to vary from one region to another.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ciabatta",
+        "category":["bread"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/0b3cf20fdd154f31b346d3f3c0d22f53.jpg?mw=1300",
+        "price":"8",
+        "country":"Italan",
+        "dis":"Literally translated to a slipper, as a reference to its shape, ciabatta is an Italian type of white bread made with yeast and wheat flour.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Porchetta",
+        "category":["pork"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/d15d1c9354374b6b9e393fb384cf72a6.jpg?mw=1300",
+        "price":"25",
+        "country":"Italan",
+        "dis":"Porchetta is a traditional, moist, boneless pork roast prepared all over Italy. This rustic dish is made by carefully deboning a piglet or a fully grown pig,",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pizza quattro formaggi",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/1e3834b48ea7406ca7afafa0e8dcda28.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"Quattro formaggi is a variety of Italian pizza topped with a combination of four kinds of cheese, as the name suggests. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Granita",
+        "category":["ice-cream"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/0978cce3674e4daeaca9e1a103bba1b9.jpg?mw=1300",
+        "price":"15",
+        "country":"Italan",
+        "dis":"This classic Sicilian semi-frozen dessert is just the thing to cool you down during the dog days of summer.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pizza ai funghi",
+        "category":["pizza"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/fe9625130240429e9292203b33ed2ab1.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"Funghi is a variety of Italian pizza that is traditionally topped with tomato sauce, mozzarella cheese, mushrooms, oil, and parsley.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Bistecca alla Fiorentina",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/2fd1965da6fa4b92a4d3550032af1281.jpg?mw=1300",
+        "price":"27",
+        "country":"Italan",
+        "dis":"Known as the holiest of holies of Italian cuisine, the Florentine-style beef steak is prepared exclusively with dry-aged beef from the Chianina cattle.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Cassata",
+        "category":["cake"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/ec995ca1dcbc4da99a362f30aebc3eab.jpg?mw=1300",
+        "price":"",
+        "country":"Italan",
+        "dis":"Arguably Sicily’s most famous dessert, this traditional cake consists of liqueur-drenched genoise sponge cake layered with sweetened ricotta and fruit preserves.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Panettone",
+        "category":["egg"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/f4ac85721dfe4777b8f5b2652181f6ad.jpg?mw=1300",
+        "price":"13",
+        "country":"Italan",
+        "dis":"This famous Italian sweet bread studded with raisins and candied orange and lemon peels is traditionally enjoyed for Christmas.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ragù alla Bolognese",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/7540cddc123b4491807cbc43373becaf.jpg?mw=1300",
+        "price":"20",
+        "country":"Italan",
+        "dis":"Ragù alla Bolognese was invented in the late 18th century by Alberto Alvisi, a chef of Pope Pius VII. The base of this classic is made with beef, pork or a combination of both,",
+        "delivery":"yes"
+    },
+    {
+        "name": "Croissant",
+        "category":["egg, cake"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/b075a8fbe7224ef787272cf4d979e388.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"These flaky, golden-colored, crescent-shaped pastries are best made with pure butter and a slightly sweet yeast dough. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Quiche",
+        "category":["vegetable, egg"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/ec9dfc952dd148a8bbcf43cdbac6569a.jpg?mw=1300",
+        "price":"13",
+        "country":"French",
+        "dis":"This popular French pie consists of a pastry crust filled with eggs, cream, and anything from bacon, cheese.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Baguette",
+        "category":["bread, roll"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/6ef8ca510bb44884af294128bab03191.jpg?mw=1300",
+        "price":"7",
+        "country":"French",
+        "dis":"Probably the most iconic image of France, this long, light, airy bread with its characteristically crispy crust dates back to the 19th century,",
+        "delivery":"yes"
+    },
+    {
+        "name": "Macarons",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/bff77c0b5fe34398a03b9a436815fad2.jpg?mw=1300",
+        "price":"2",
+        "country":"French",
+        "dis":"These small, round, sweet meringue-based cookie sandwiches with filling in the middle are light and crunchy on the outside and chewy in the middle. Macarons.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Éclair",
+        "category":["egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/5af8a479dedb4d53a7718ca752a536eb.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"These elongated pastries with an appealing glaze, a crispy exterior, a soft doughy interior, and a sweet, creamy center originated in France at the turn of the 20th century. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Bisque",
+        "category":["lobster, soup"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/0809873b805340dcbdb18110564779ef.jpg?mw=1300",
+        "price":"13",
+        "country":"French",
+        "dis":"This thick, creamy, and rich puréed soup traditionally includes ingredients such as cream, seafood, cognac or wine, and a combination of spices. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Soufflé",
+        "category":["egg, cake"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/064bd8d6006c46529ec729cf45cd335e.jpg?mw=1300",
+        "price":"8",
+        "country":"French",
+        "dis":"This wildly popular French dessert is beloved all over the world – known to gourmets for its soft, airy texture, and infamous among chefs for its unforgiving nature",
+        "delivery":"no"
+    },
+    {
+        "name": "Crème brûlée",
+        "category":["egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/fde6f39483494f81b0846591fcc50553.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"This traditional egg custard dessert consists of egg yolks, cream, sugar, and vanilla, with a hard, burnt, toffee crust. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ratatouille",
+        "category":["vegetable"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/5a9748c2067c4e00bfbad4334e858518.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"This colorful Provençal vegetable ragout is traditionally made with simple, easily accessible ingredients: courgettes, eggplants, green and red peppers, tomatoes, onions, garlic, and parsley. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Brioche",
+        "category":["egg, bread"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/19ee4ceab82b478eba60e2e0e5a6358d.jpg?mw=1300",
+        "price":"5",
+        "country":"French",
+        "dis":"https://cdn.tasteatlas.com/images/dishes/19ee4ceab82b478eba60e2e0e5a6358d.jpg?mw=1300",
+        "delivery":"yes"
+    },
+    {
+        "name": "Châteaubriand",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/5dd8d8db50b5430482e4da8722c10aea.jpg?mw=1300",
+        "price":"20",
+        "country":"French",
+        "dis":"Contrary to popular belief, the word Châteaubriand does not refer only to a cut of beef, but to a method used to grill or roast a thick cut of beef tenderloin.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Hollandaise sauce",
+        "category":["soup, egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/26358df9f0a543609e253a1ab2a41856.jpg?mw=1300",
+        "price":"8",
+        "country":"French",
+        "dis":"This butter and egg emulsion is one of the five mother sauces of French cuisine, and one of the most famous sauces in western cuisine.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mousse",
+        "category":["cake"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/71aba52873554307b73d405a4255058b.jpg?mw=1300",
+        "price":"8",
+        "country":"French",
+        "dis":"This light, fluffy, creamy sweet or savory treat hails from 18th-century France. The word mousse itself means foam in French",
+        "delivery":"yes"
+    },
+    {
+        "name": "Steak au poivre",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/0d5c54eb9cd64db6a2832aeb115bb57d.jpg?mw=1300",
+        "price":"23",
+        "country":"French",
+        "dis":"Steak au poivre is a French dish consisting of a beef steak that is coated in crushed peppercorns and fried.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Croque-monsieur",
+        "category":["sandwich"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/c64f6a44705e4b6a99974623375afa76.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"According to Larousse, this classic French hot sandwich consists of a thin slice of ham and melted cheese tucked between two pieces of sliced bread",
+        "delivery":"yes"
+    },
+    {
+        "name": "Profiteroles",
+        "category":["ice-cream"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/de1fb2902c0443fe87d56ee67792b2ab.jpg?mw=1300",
+        "price":"12",
+        "country":"French",
+        "dis":"These chocolate-covered puff pastries are filled with either whipped cream, custard, pastry cream, or vanilla ice cream. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mousse au chocolat",
+        "category":["sweet, egg"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/d9fdc5f7ed1c4d0cb558eae1592bc711.jpg?mw=1300",
+        "price":"14",
+        "country":"French",
+        "dis":"This classic French dessert is made with dark chocolate, eggs, butter, sugar, and salt. It is characterized by its foamy",
+        "delivery":"yes"
+    },
+    {
+        "name": "Steak-frites",
+        "category":["beef, deep-fry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/54d1956debfa40f2b1cdc22a89ad6124.jpg?mw=1300",
+        "price":"22",
+        "country":"French",
+        "dis":"Simply translated as steak and fries, steak-frites is a dish that traces its origins to French and Belgian national cuisine. In this classic",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pain perdu",
+        "category":["bread, egg"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/26716764bc414a4699efef6434025831.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"Considered an early version of the famous breakfast fare called french toast, pain perdu is a simple French dish that is based on old, stale bread",
+        "delivery":"yes"
+    },
+    {
+        "name": "Madeleines",
+        "category":["bread"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/3727a3570d5a475baf5a1a0886481e17.jpg?mw=1300",
+        "price":"5",
+        "country":"French",
+        "dis":"Madeleines are the perfect accompaniment to afternoon tea - these buttery cookies with the consistency of a sponge cake are slightly browned and crispy on the outside",
+        "delivery":"no"
+    },
+    {
+        "name": "Steak tartare",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/baab0ab2a0b041f883f01e68ac9f1ba5.jpg?mw=1300",
+        "price":"28",
+        "country":"French",
+        "dis":"Steak tartare is an appetizer made with finely chopped raw beef or horse meat that is seasoned with salt, pepper, Worcestershire sauce, and either Tabasco or mustard. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Bouillabaisse",
+        "category":["fish"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/4a4ec4f92d4c4fe588f256863dcdb0b5.jpg?mw=1300",
+        "price":"18",
+        "country":"French",
+        "dis":"This traditional Provençal fish stew originated in the 18th century when it was first concocted by Marseillaise fishermen",
+        "delivery":"yes"
+    },
+    {
+        "name": "Quiche Lorraine",
+        "category":["egg, meat"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/a2ef7a3408c849b68088a44569ab13d0.jpg?mw=1300",
+        "price":"16",
+        "country":"French",
+        "dis":"Although quiches can be made with nearly anything, from meats and vegetables to seafood, herbs, and cheeses, the king among these delicious baked tarts is still the original quiche Lorraine",
+        "delivery":"no"
+    },
+    {
+        "name": "Riz au lait",
+        "category":["sweet, rice"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/bded9f61bc424359931994950bc59662.jpg?mw=1300",
+        "price":"20",
+        "country":"French",
+        "dis":"Riz au lait is a traditional French dessert based on rice. It's made by slowly cooking rice with sugar and milk until the mixture thickens and the rice is fully cooked.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Consommé",
+        "category":["beef, soup"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/2bf05544af8149acacce732bd4bb6a2e.jpg?mw=1300",
+        "price":"25",
+        "country":"French",
+        "dis":"This clear soup is made from rich, clarified stock. It is a time consuming, luxurious, and expensive dish that results in crystal-clear, full-flavored liquid broth devoid of any trace of fat",
+        "delivery":"yes"
+    },
+    {
+        "name": "Terrine",
+        "category":["meat, pork"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/5452b987142b4d5190a08632571e4e88.jpg?mw=1300",
+        "price":"15",
+        "country":"French",
+        "dis":"This French dish consisting of coarsely chopped meat and fat is similar to a meat loaf. The name terrine also refers to the earthenware vessel used to cook it",
+        "delivery":"no"
+    },
+    {
+        "name": "Beignets",
+        "category":["egg, deep-fry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/a4d5cfd1b46646239b59d5b8f57a2bb6.jpg?mw=1300",
+        "price":"14",
+        "country":"French",
+        "dis":"These squares of deep-fried pastry dough are sprinkled with powdered sugar and are traditionally served hot. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Parfait",
+        "category":["ice-cream"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/c402edb12e1f4f18b23b4921636c59e7.jpg?mw=1300",
+        "price":"15",
+        "country":"French",
+        "dis":"The name of this partially frozen French dessert means perfect – so one can imagine that its creators intended the experience of eating it to be no less thrilling than its name implies",
+        "delivery":"yes"
+    },
+    {
+        "name": "Beef bourguignon",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/6681904919e84a53a7af5759d70705d5.jpg?mw=1300",
+        "price":"15",
+        "country":"French",
+        "dis":"Beef bourguignon is a rich and complex stew originating from the region of Burgundy in France. The star of the dish is a robust red Burgundy wine",
+        "delivery":"yes"
+    },
+    {
+        "name": "Coq au vin",
+        "category":["chicken"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/2ec6001ed4e14104b887e459efc88d0f.jpg?mw=1300",
+        "price":"18",
+        "country":"French",
+        "dis":"This classic peasant stew hails from the French region of Burgundy. This dish is the perfect showcase for the harmonious coexistence of its two main ingredients – coq, or rooster",
+        "delivery":"yes"
+    },
+    {
+        "name": "Confit de canard",
+        "category":["duck"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/3fdf6a746bd748bf940dcb6fca66c56c.jpg?mw=1300",
+        "price":"17",
+        "country":"French",
+        "dis":"This French classic is made by slow-roasting duck meat in its own fat. What was once used as a method of preserving meat in times before refrigeration is nowadays enjoyed as a rich and flavorful dish of its own.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Gratin Dauphinois",
+        "category":["potato"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/f828e426e04948619c6afb9c78f4ee5e.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"Traditionally consumed by peasants in the historic Dauphiné region in France, gratin Dauphinois is a savory dish consisting of thinly sliced potatoes",
+        "delivery":"yes"
+    },
+    {
+        "name": "Rouille",
+        "category":["egg, cake"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/3cabaa67725a4924b3a6c573e3e6da48.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"This thick French sauce is usually used as a garnish for fish and fish soup dishes",
+        "delivery":"no"
+    },
+    {
+        "name": "Île flottante",
+        "category":["egg, stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/3f4cb32e87ea49779b9b9290705f3edd.jpg?mw=1300",
+        "price":"13",
+        "country":"French",
+        "dis":"Île flottante or floating island is a popular dessert originating from France, consisting of meringues that are poached in vanilla custard and often topped with caramel sauce and toasted almonds.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Crème caramel",
+        "category":["egg, cake"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e9b48df564c547d9a20fd8c04a9092e8.jpg?mw=1300",
+        "price":"10",
+        "country":"French",
+        "dis":"This popular dessert consists of a custard base and a soft caramel topping. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Entrecôte",
+        "category":["beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/b0bc28cca0ac414ba7443de63b344223.jpg?mw=1300",
+        "price":"12",
+        "country":"French",
+        "dis":"Entrecôte is a type of beef steak that's cut from between the ribs, but it's more commonly known as a thin and boneless rib-eye steak.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Meunière",
+        "category":["fish"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/6076bbbae7214fef879c8b9a8cf8dd13.jpg?mw=1300",
+        "price":"24",
+        "country":"French",
+        "dis":"Roughly translated as in the manner of miller’s wife, the term à la meunière refers to a French cooking technique in which a whole fish or fish fillets are lightly dusted in flour and then sautéed in butter.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Magret de canard",
+        "category":["duck"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/2884f0b73fbd44cfa72aeeb7bd11ac03.jpg?mw=1300",
+        "price":"20",
+        "country":"French",
+        "dis":"This dish of flash-seared duck breast dates back to the late 1950s, when French chef André Daguin first prepared a magret like a steak and served it medium-rare.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mille feuilles",
+        "category":["egg, cake"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/e896274f994d45eea9582e9ff278e604.jpg?mw=1300",
+        "price":"24",
+        "country":"French",
+        "dis":"Creamy, flaky, and delicate, this French dessert can be literally translated as a thousand leaves.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pad Thai",
+        "category":["noodle, egg, shrimps"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/ad3ef1fb39eb42958e7462961951e45c.jpg?mw=1300",
+        "price":"17",
+        "country":"thai",
+        "dis":"Pad Thai is Thailand's national dish, a flavorful stir-fry (pad in Thai) dish consisting of rice noodles, tofu, dried shrimp, bean sprouts, and eggs.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Thai Curry",
+        "category":["chicken, curry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/4dccb29bd2ee4ba1800699a4f6c23413.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Thai curry is usually a soupy dish consisting of coconut milk or water, meat, and curry paste. Unlike the thicker Indian curries, ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Tom yum",
+        "category":["mushroom, shrimps"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/4eb244d172a44fe7b0a7379e03a7ba89.jpg?mw=1300",
+        "price":"18",
+        "country":"thai",
+        "dis":"Tom Yum is one of the best known Thai dishes, a spicy, sour, and aromatic soup that is traditionally served with rice.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Green Curry",
+        "category":["shrimps, curry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e97989579bd6431c9b6b90b5b9a5b1b4.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Kaeng khiao wan is a traditional Thai name for the fiery green curry. Although the name translates to sweet green curry",
+        "delivery":"yes"
+    },
+    {
+        "name": "Yellow Curry",
+        "category":["duck, curry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/272a57ca6437461288b69f6f1588de03.jpg?mw=1300",
+        "price":"18",
+        "country":"thai",
+        "dis":"One of three major curry types in Thailand is the famous yellow curry. Similar to its red and green counterparts",
+        "delivery":"yes"
+    },
+    {
+        "name": "Red Curry",
+        "category":["curry, chicken"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/4498dce9deb94b6aba4c6b221269f307.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Red curry is one of the most common curry varieties in Thailand. It combines red curry paste, coconut milk, vegetables and meat into a delectable and hearty meal.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Som tam",
+        "category":["bean"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/eff874245bd145739d6cf2f56e54743f.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Som tam is a green papaya salad mostly associated with the northeastern part of Thailand (Isaan), though it is often suggested that it first appeared in Laos.  ",
+        "delivery":"no"
+    },
+    {
+        "name": "Tom kha gai",
+        "category":["chicken"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/9bf54bc8b6ae431db23b5919b7442ce9.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Tom kha gai is Thailand's delicious national dish coming from the north and bearing the influence of neighbouring Laos. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Massaman Curry",
+        "category":["beef, curry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/9cac129f40d9404e9f1d759809ab7dd6.jpg?mw=1300",
+        "price":"25",
+        "country":"thai",
+        "dis":"Out of all Thai curry varieties, massaman curry stands out as the mildest, sweetest, and the most unusual type. It is a combination of creamy coconut milk, meat, potatoes, and a curry paste",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khao soi",
+        "category":["noodle, beef "],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/af467a8acc9b442ba6ca5fc5edf4707b.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"A signature dish of Northern Thailand, khao soi is a delicious coconut soup in which numerous regional influences were combined to create a truly spectacular dish. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Phanaeng Curry",
+        "category":["beef, curry"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/a0d80bf83b6c49e5841dedd8f9e02faa.jpg?mw=1300",
+        "price":"22",
+        "country":"thai",
+        "dis":"Phanaeng curry is a variety of Thai curry that is characterized by its thick texture and a salty-sweet peanut flavor. It consists of meat that is stewed with dried chilis",
+        "delivery":"yes"
+    },
+    {
+        "name": "Thai Grilled Chicken",
+        "category":["chicken, grill"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/e23aa44f612441058cec7d8c0628fd42.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Thai grilled chicken is a poultry dish made by grilling or barbecuing a whole, marinated chicken.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ruam mit",
+        "category":["sweet, stew"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/ca7b4d0fbfe346fca8b05a83e5fb7cd8.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"Ruam mit is a popular Thai dessert made with ingredients such as coconut milk, sugar, tapioca pearls, corn, lotus root, sweet potatoes, beans, and jackfruit.",
+        "delivery":"no"
+    },
+    {
+        "name": "Khao lam",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/2b37f6e241374dd0b219321637d351a5.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Khao lam or kralan is a unique Thai dessert consisting of sweet sticky rice, either white or red, steamed in bamboo tubes. ",
+        "delivery":"no"
+    },
+    {
+        "name": "Khao phat",
+        "category":["deep-fry, rice, meat"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/29799fb95dcd473d8100bfa526a4a148.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Khao phat is a simple Thai dish of stir-fried rice with vegetables that is traditionally prepared with jasmine rice, unlike the Chinese version which calls for plain white rice.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Phat kaphrao",
+        "category":["rice, egg, meat"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/ac07712d9bcc40bbb2deb4a2038b2733.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"This traditional Thai stir-fry combines minced meat or seafood with holy basil and various other ingredients such as shallots, garlic, and chili peppers. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khao mok gai",
+        "category":["rice, chicken"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/ef680819d36a49d7a74d275ff339aea2.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Traditionally prepared and eaten mostly by the Muslim-Thai, khao mok gai (chicken burried in rice) is a Halal dish that was introduced to Thailand by Persian merchants centuries ago.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Yen ta fo",
+        "category":["shrimps, meat, noodle, chicken"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/5ac53d8672b64782bac0bae2e93ac448.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"The pink-colored yen ta fo is a Thai soup consisting of various types of noodles served in a hearty chicken or pork broth seasoned with the pungent, fermented red bean curd.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khao tom",
+        "category":["rice, soup"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/cb24a7ad48e544d9a0968ba579d8e6b9.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"Khao tom is a variety of rice soup from Thailand that combines rice with a flavor-packed broth of herbs and vegetables",
+        "delivery":"yes"
+    },
+    {
+        "name": "Larb",
+        "category":["vegetable, meat"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/ee53a74cf91c4d2ea455f9eb898cdfaf.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Larb is a heavily seasoned meat salad that's garnished with freshly chopped herbs and khao khoua — toasted ground rice. Considered the unofficial dish of Laos",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khao kha mu",
+        "category":["pork, rice, egg"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/e3624dc5d087442db14c45bc19119801.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Khao kha mu is a Thai dish which consists of braised pork leg served over rice, complemented with a variety of side dishes and flavorful condiments.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mee krob",
+        "category":["deep-fry, noodle, rice"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/e396a8d718554d568eeec4e26a945785.jpg?mw=1300",
+        "price":"16",
+        "country":"thai",
+        "dis":"A perfect blend of texture and authentic Thai flavors, mee krob or mi krop is a dish that consists of crispy fried rice vermicelli noodles which are covered with a sweet and sour sauce made with lime juice",
+        "delivery":"yes"
+    },
+    {
+        "name": "Phat si-io",
+        "category":["chicken"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/b15b41daa6ef4b99b4b5df0a2d1a90e2.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"Phat si-io is a Chinese-style noodle dish originating from Thailand.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Suki",
+        "category":["vegetable, soup"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/10c206a4463e403a9218c47c5838a072.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Suki is the Thai version of a communal hot pot dish. It grew out of Chinese and Japanese traditions of preparing and cooking ingredients tableside in a shared bowl.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Roti canai",
+        "category":["egg, naan"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/4382dae5b7a842f386742b74cebf706d.jpg?mw=1300",
+        "price":"5",
+        "country":"thai",
+        "dis":"Roti canai is a traditional pan-fried flatbread made with flour, water, eggs, and fat of Indian origin, also consumed in Malaysia, Singapore, Indonesia, Brunei, and Thailand.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mu wan",
+        "category":["pork"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/f1ffecb647a341c796f93c4996c86781.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"This traditional Thai dish is prepared with various pork cuts that are cut into bite-sized pieces before they are fried in a subtly sweet combination of sugar and spices",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khanom khrok",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/b60fa2c6847f4078a8de1a4c1f2b53e6.jpg?mw=1300",
+        "price":"5",
+        "country":"thai",
+        "dis":"This small-sized Thai dessert, which is often referred to as a pancake, pudding, or a cake, is created with a batter that combines rice flour and coconut milk. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pla thot",
+        "category":["fish"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/612c85ef75764e8595126efa53843154.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"Pla thot, meaning deep-fried fish or pan-fried fish in Thai, is a fish specialty that is made by frying fish to crispy perfection, both inside and out.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Jungle Curry",
+        "category":["chicken, curry"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/af6e227271fa4321879cadb91e4d67c6.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"Kaeng pa (also called jungle curry or forest curry) is a traditional variety of Thai curry hailing from the northern, forested parts of the country.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khanom chin nam ya",
+        "category":["vegetable, fish, noddle, curry"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/39c1ad299a114909a96a72a238e7c13a.jpg?mw=1300",
+        "price":"18",
+        "country":"thai",
+        "dis":"This fiery Thai fish curry is usually associated with Central Thailand, although similar varieties can be found throughout the country. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khao khluk kapi",
+        "category":["pork, rice, shrimps"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/c33dbd62fd834fd4b0d7423f7b0507d0.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Khao khluk kapi is a Thai rice dish made with cooked rice that is fried with shrimp paste, and then topped with or served alongside a number of ingredients ",
+        "delivery":"no"
+    },
+    {
+        "name": "Phak bung fai daeng",
+        "category":["vegetable"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/e21f9ed2e05a4e02aeb8150e859c4c64.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Phak bung fai daeng is a vegetable stir-fry consisting of chopped Chinese water morning glory, fried along with red bird’s eye chilis, soybean sauce, oyster sauce etc.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mu kratha",
+        "category":["pork"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/5bd3515dbb584ba38357689ee28a3ee7.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"This Thai pork dish is a crossover between Korean barbecue and Chinese hot pot. ",
+        "delivery":"no"
+    },
+    {
+        "name": "Chim chum",
+        "category":["meat"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/3d787f690d37439f8123148ef0dcca14.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"The term chim chum refers to a traditional Thai dish as well as the earthenware pot in which the dish is cooked",
+        "delivery":"yes"
+    },
+    {
+        "name": "Grass Jelly ",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/6868403a5a554aa9b50745aac839aac7.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Grass jelly, Also known as  (chao kuai) is a traditional Thai dessert typically served with crushed ice and sprinkled with brown sugar.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Golden Threads",
+        "category":["sweet, egg"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/68670dfafdb94f5bb8e34cde545aa434.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"Foi thong is a Thai dessert made by drizzling egg yolks (usually duck egg yolks) through a narrow funnel into a sugary syrup in order to create long and sweet golden strings",
+        "delivery":"yes"
+    },
+    {
+        "name": "Phat phrik",
+        "category":["fish, curry"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/b409abcd249b4b82804eeeb0ec14ea16.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Phat phrik is a variety of dry Thai curry that usually combines green beans and a choice of fish or tofu. Just like other types of Thai curries, ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Yum woon sen",
+        "category":["noodle, pork, bean"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/91a20b39cc114100aa66eb35deb00a2b.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"Yum woon sen is the name for a spicy Thai salad made with glass noodles, ground pork, chili peppers, and dressings. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Kuai-tiao ruea",
+        "category":["noodle, soup"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/c498c608efc243a3ba8aa68e109aea01.jpg?mw=1300",
+        "price":"14",
+        "country":"thai",
+        "dis":"Roughly translated as boat noodle soup, this Thai dish was initially sold from boats that navigated through Bangkok canals. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khanom chan",
+        "category":["sweet"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/63a85303be31494791227f089ebbc5e5.jpg?mw=1300",
+        "price":"5",
+        "country":"thai",
+        "dis":"Khanom chan is a unique Thai dessert made with steamed batter of several starches, typically rice, tapioca, and arrowroot flour, coconut milk, sugar etc",
+        "delivery":"yes"
+    },
+    {
+        "name": "Tom saep",
+        "category":["soup, beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/6789bf2c99a0482995631ffd09c09d90.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Often dubbed as the northern Thai version of the popular tom yum, this spicy and sour soup",
+        "delivery":"yes"
+    },
+    {
+        "name": "Goong ob woon sen",
+        "category":["noodle, shrimps"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/e13ebd4a08bf4e828546e8654a5e5e16.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"This simple Thai stir-fry combines glass noodles and whole shrimps.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khua kling",
+        "category":["pork"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/eb8f5e4962d14159b31684a97e00368a.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"This southern Thai variety of dry curry combines spicy curry paste and ground pork",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khao khai chiao",
+        "category":["egg, rice"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/ff3ca9c8973a45408f1570f9aef6a551.jpg?mw=1300",
+        "price":"10",
+        "country":"thai",
+        "dis":"This Thai-style omelet is traditionally served over rice. It consists of eggs, fish sauce, a splash of lemon juice or vinegar, and optionally some soy sauce, cornstarch, or rice flour",
+        "delivery":"yes"
+    },
+    {
+        "name": "Sour Spicy Fish Curry",
+        "category":["shrimps, curry"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/08e0465d28dd4060b8e98a81417b6b6b.jpg?mw=1300",
+        "price":"20",
+        "country":"thai",
+        "dis":"Kaeng som is a sour, water-based Thai curry that is typically prepared with fish or shrimps and a thick paste that usually incorporates shallots, chilis, and shrimps.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Nam phrik",
+        "category":["meat, stew"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/538cdddfb32a47c28caf558616fc102a.jpg?mw=1300",
+        "price":"15",
+        "country":"thai",
+        "dis":"The term nam phrik refers to a vast range of chili-based sauces that are found throughout Thailand.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Panta Ilish",
+        "category":["fish, rice"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp",
+        "price":"15",
+        "country":"bangladeshi",
+        "dis":"Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year). ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Kacchi Biryani",
+        "category":["rice, beef"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Kacchi-Biryani-1-960x540.jpg.webp",
+        "price":"25",
+        "country":"bangladeshi",
+        "dis":"Kacchi Biryani is one of Bangladeshi people’s most loved foods. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Vuna Khichuri",
+        "category":["rice, beef"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Khichuri-960x960.jpg.webp",
+        "price":"20",
+        "country":"bangladeshi",
+        "dis":"Khichuri is a dish made of rice and lentils (dal). Vuna Khichuri (roasted) is cooked with different ingredients and spices from normal Khichuri.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Morog Polao",
+        "category":["rice, egg, chicken"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Morog-Polao-1-960x540.jpg.webp",
+        "price":"20",
+        "country":"bangladeshi",
+        "dis":"Polao is a rice dish which involves cooking a stock, and adding spices. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Haleem",
+        "category":["stew, beef"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"Haleem is an Arabic dish. It is a popular stew made with meat—usually beef or mutton—lentils, barley, and spices.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mishti Doi ",
+        "category":["sweet"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/5075686948_ccb38cd4d0_c.jpg.webp",
+        "price":"10",
+        "country":"bangladeshi",
+        "dis":"This is the second most consumed food at festivals and celebrations after biryani.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ras Malai",
+        "category":["sweet, stew"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Ras-Malai-1-960x960.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"Ras Malai is a sweet dessert. It originated throughout the region in India, Bangladesh, Pakistan, and Afghanistan.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Borhani",
+        "category":["sweet"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Borhani-960x720.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"Borhani is a traditional yoghurt-like drink from Bangladesh that is a thick, frothy, herby and spicy savory drink. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Jilapi",
+        "category":["sweet"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Jilapi-960x960.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"Jilapi or Jalebi is a popular sweet snack. It’s made by deep-frying maida flour batter in pretzel or circular shapes, which are then soaked in sugar syrup. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Shingara",
+        "category":["deep-fry"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Samosa-2-960x960.jpg.webp",
+        "price":"1",
+        "country":"bangladeshi",
+        "dis":"This triangle or pyramid-shaped food originated in the middle east and central Asia and later spread all over the Indian subcontinent.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pitha",
+        "category":["sweet"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Bhapa-Pitha-960x540.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"This food differs depending on the season, the culture, and the place.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Kala Bhuna",
+        "category":["beef"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Kala-Bhuna-960x960.jpg.webp",
+        "price":"20",
+        "country":"bangladeshi",
+        "dis":"A great combination of beef, onion and plenty of spices, such as ginger, garlic, chili, and cumin, go through a long process of deep frying to give this dish its black color.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Prawn Malai Curry",
+        "category":["potato"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Prawn-Malai-Curry-960x960.jpg.webp",
+        "price":"10",
+        "country":"bangladeshi",
+        "dis":"A low lying country like Bangladesh is enriched with one particular food that is exported around the world.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Bharta",
+        "category":["vegetable"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Bharta-960x540.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"Bharta is a Bangla word meaning mashed. Any mashed food can be called bharta, but in Bangladesh it usually refers to mashed potato, eggplant, ilish, and dried fish.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mughlai Paratha",
+        "category":["naan"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Mughlai-Paratha-960x960.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"This Bengali street food comes from the time of the Mughal Empire, where it is believed to have been prepared for the royal court of Mughal Emperor Jahangir.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Shemai",
+        "category":["sweet, stew"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Shemai-960x944.jpg.webp",
+        "price":"10",
+        "country":"bangladeshi",
+        "dis":"Shemai is a traditional dessert in Bangladesh. It is particularly popular at Eid, a celebration for the distribution of Happiness.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chop",
+        "category":["deep-fry"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Aloor-Chop-960x720.jpg.webp",
+        "price":"2",
+        "country":"bangladeshi",
+        "dis":"One of the biggest occasions in Bangladesh is the Muslim celebration of Ramadan. One of the most popular foods for iftar is Chop.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Falooda",
+        "category":["ice-cream"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Falooda-1-960x960.jpg.webp",
+        "price":"10",
+        "country":"bangladeshi",
+        "dis":"Falooda is a well known cold dessert made by mixing rose syrup and sweet basil seeds with milk, noodles, ice cream, and vermicelli. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Bengali Mutton Curry",
+        "category":["meat, curry"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Mangshor-Jhol-960x960.jpg.webp",
+        "price":"15",
+        "country":"bangladeshi",
+        "dis":"Sunday afternoons are synonymous with Mutton Curry and Rice in any quintessential middle-class Bengali household",
+        "delivery":"yes"
+    },
+    {
+        "name": "Fish Curry",
+        "category":["fish, curry"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Macher-Jhol-2-960x800.jpg.webp",
+        "price":"10",
+        "country":"bangladeshi",
+        "dis":"Fish curry, or machha jhola, is a traditional spicy fish curry in Bengali and Odia cuisines in the eastern part of the Indian subcontinent.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Aloo Posto",
+        "category":["potato"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Aloo-Posto-960x960.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"This is a traditional Bengali dish prepared using potatoes lightly spiced with poppy seed paste.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Shorshe Ilish",
+        "category":["fish"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Shorshe-Ilish-960x960.jpg.webp",
+        "price":"15",
+        "country":"bangladeshi",
+        "dis":"A popular dish from the wetlands of Bengal, stretching across borders between India and Bangladesh",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ilish Paturi",
+        "category":["fish"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Hilsa-Cooked-in-Banana-Leaf.jpg.webp",
+        "price":"10",
+        "country":"bangladeshi",
+        "dis":"Ilish Macher Paturi combines three of Bengal’s greatest loves – the Hilsa fish, the banana plant, and mustard.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Aam Tel Ilish ",
+        "category":["fish"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Aam-Tel-Ilish-960x960.jpg.webp",
+        "price":"12",
+        "country":"bangladeshi",
+        "dis":"Aam Tel Ilish which is mango pickle-flavored, steamed boneless Hilsa wrapped in a pumpkin leaf and served in a clay pot with steamed rice",
+        "delivery":"yes"
+    },
+    {
+        "name": "Macher Chop",
+        "category":["fish, deep-fry"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Macher-Chop.jpg.webp",
+        "price":"2",
+        "country":"bangladeshi",
+        "dis":"Calcutta being the administrative center of the British Raj in India has adopted various techniques and recipes and added their own culinary twist. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Bengali Mishti Pulao",
+        "category":["sweet, rice"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Bengali-Mishti-Pulao-960x1200.jpg.webp",
+        "price":"20",
+        "country":"bangladeshi",
+        "dis":"Bengal is famous for its variety of sweets made with milk, milk fudge, and cheese. Just as famous as the sweet Misthi Pulao, Basmati is the choice of rice.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chingri Pulao",
+        "category":["shrimps, rice"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Chingri-Pulao-960x1200.jpg.webp",
+        "price":"15",
+        "country":"bangladeshi",
+        "dis":"A specialty reserved for “Noboborsho” or Bengali New Year, this is a simple yet ﬂavorful dish",
+        "delivery":"yes"
+    },
+    {
+        "name": "Chingri Malai Curry",
+        "category":["shrimps, curry"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Chingri-Malai-Curry-960x1201.jpg.webp",
+        "price":"15",
+        "country":"bangladeshi",
+        "dis":"This is tiger/king prawns steeped in a creamy rich and lightly flavored sauce and coconut milk.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Shukto ",
+        "category":["vegetable, stew"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Shukto-960x960.jpg.webp",
+        "price":"10",
+        "country":"bangladeshi",
+        "dis":"A wide array of mild, sometimes bitter, milky curries served for lunch to open up the palate for the oncoming spicier courses",
+        "delivery":"yes"
+    },
+    {
+        "name": "Begun Bhaja",
+        "category":["vegetable, deep-fry"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Begun-Bhaja-960x960.jpg.webp",
+        "price":"5",
+        "country":"bangladeshi",
+        "dis":"A simple yet spicy marinade of chili powder, turmeric, and lime seasoned with salt and pan-fried with mustard oil.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Postor Bora",
+        "category":["bean"],
+        "img":"https://www.chefspencil.com/wp-content/uploads/Postor-Bora-960x958.jpg.webp",
+        "price":"10",
+        "country":"bangladeshi",
+        "dis":"Postor bora is a mix of poppy seed paste, grated coconut, onions, green chilies, and rice flour, which are shallow fried as fritters in mustard oil.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Natore Kacha Golla",
+        "category":["sweet"],
+        "img":"https://prod-media-eng.dhakatribune.com/uploads/2019/12/narore5-copy-1576946498288.jpg",
+        "price":"15",
+        "country":"bangladeshi",
+        "dis":"Natore kacha golla one of the most favourite sweet in Bangladesh.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Poutine",
+        "category":["cheese"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/8cb5894ea6fb4a48825b435f0bcab90e.jpg?mw=1300",
+        "price":"10",
+        "country":"Canada",
+        "dis":"Even though its name stems from the French boudin—a word that usually refers to the pudding-like fillings of sausages",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mac and Cheese",
+        "category":["cheese"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/43b9fc3a33314d2cb2d25bd73bb5a046.jpg?mw=1300",
+        "price":"20",
+        "country":"Continental",
+        "dis":"Mac and cheese—a seemingly simple combination of macaroni and melted cheese",
+        "delivery":"yes"
+    },
+    {
+        "name": "Khachapuri",
+        "category":["cheese, egg"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/dfe5095fa6854403ac8b9fe86a30b01a.jpg?mw=1300",
+        "price":"10",
+        "country":"Georgia",
+        "dis":"This simple cheese bread known as khachapuri is the most famous dish in Georgia. It is traditionally topped with melted cheese, eggs and butter.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Namul",
+        "category":["bean"],
+        "img":"https://cdn.tasteatlas.com/Images/Dishes/29ec3d5337464c93917e997d2c37a60b.jpg?mw=1300",
+        "price":"10",
+        "country":"South Korea",
+        "dis":"Namul is a widely accepted term used to refer to Korean vegetable side dishes, ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ghormeh sabzi",
+        "category":["bean, beef"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/b937783340484cdd9a02639a4e64ef39.jpg?mw=1300",
+        "price":"20",
+        "country":"Iran",
+        "dis":"Ghormeh sabzi is an Iranian herb stew, commonly eaten everywhere in Iran.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Gigandes plaki",
+        "category":["bean"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/0bff6ac0167e46968ff0f7a24ff26430.jpg?mw=1300",
+        "price":"20",
+        "country":"Greece",
+        "dis":"This Greek classic consists of large white beans that are cooked and then baked in a flavorful tomato sauce.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Pasulj",
+        "category":["bean, stew"],
+        "img":"https://cdn.tasteatlas.com/images/dishes/72fabc5d4c6549c9ba4142b36b60a351.jpg?mw=1300",
+        "price":"10",
+        "country":"Serbia",
+        "dis":"Pasulj is a popular Serbian bean soup that is traditionally prepared with white beans. The beans are usually simmered with sausage, bacon, or ham.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Maine Lobster",
+        "category":["lobster, seafood"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/2b15bf73cddd4b0489ec84712417bf76.jpg?mw=1300",
+        "price":"35",
+        "country":"USA",
+        "dis":"Maine lobster, also known as American lobster, Atlantic lobster, Canadian lobster, true lobster.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Dungeness Crab",
+        "category":["seafood, crab"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/8ac9861ba3e84d7788b79a9c577cc913.jpg?mw=1300",
+        "price":"20",
+        "country":"USA",
+        "dis":"Dungeness crab is a common crab found in the Pacific Northwest and off the coast of Washington",
+        "delivery":"yes"
+    },
+    {
+        "name": "Stone Crab",
+        "category":["seafood, crab"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/5f80acc9001b44929e26d69eab55daf4.jpg?mw=1300",
+        "price":"20",
+        "country":"bangladeshi",
+        "dis":"The warm waters of Florida’s Gulf Coast are home to the state’s quintessential seafood delicacy - the stone crab.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Mejillón de Galicia ",
+        "category":["seafood, clams"],
+        "img":"https://cdn.tasteatlas.com/Images/Ingredients/5b9ddcee70404d188c1b528490086d4e.jpg?mw=1300",
+        "price":"15",
+        "country":"Spain",
+        "dis":"Mejillón de Galicia are the Fresh mussels (Mytilus galloprovincialis), cultivated using rafts in the area of the Galician rías in the provinces of A Coruña and Pontevedra.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Moules de Bouchot ",
+        "category":["seafood, clams"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/073cdf8c6bd24611a6cb7e7298324762.jpg?mw=1300",
+        "price":"20",
+        "country":"French",
+        "dis":"Moules de Bouchot are mussels that are cultivated on stakes from larvae caught in their natural habitat",
+        "delivery":"yes"
+    },
+    {
+        "name": "Soupia",
+        "category":["seafood"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/2519c3b5f3a14e91a28034e116feeab2.jpg?mw=1300",
+        "price":"20",
+        "country":"Greece",
+        "dis":"Known as soupia in Greek, common cuttlefish are marine mollusks that are commonly sourced from the waters of the Mediterranean Sea in Greece. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Centolla Chilena",
+        "category":["seafood, crab"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/f2264f61a87a499cbfd1332aeb5430da.jpg?mw=1300",
+        "price":"15",
+        "country":"Chile",
+        "dis":"Lithodes santolla (the scientific classification of the southern king crab) is a species of king crab native to the coast of Chile, Argentina, and Peru.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Sydney Rock Oyster",
+        "category":["seafood, clams"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/b21883ed83e5465bb7ae9c662af03c25.jpg?mw=1300",
+        "price":"20",
+        "country":"Australia",
+        "dis":"Traditionally farmed in bays, inlets, and sheltered estuaries, Sydney rock oyster was the first aquaculture species in Australia. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Yancheng Long Xia ",
+        "category":["seafood, crab"],
+        "img":"https://cdn.tasteatlas.com/Images/Ingredients/accf7ec5fa4147a7b4b7124bc51241d8.jpg?mw=1300",
+        "price":"25",
+        "country":"Chinese",
+        "dis":"Yancheng Long Xia is a freshwater lobster of the Procambarus Clarkii species, produced in the Doulong River, Dafeng District",
+        "delivery":"yes"
+    },
+    {
+        "name": "Guernsey Oysters",
+        "category":["seafood, clams"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/0545454074f1487f951c290931dcd6de.jpg?mw=1300",
+        "price":"17",
+        "country":"Greece",
+        "dis":"Guernsey oysters are a type of locally bred and grown oysters in the area of the island of Guernsey. To preserve their high-quality",
+        "delivery":"yes"
+    },
+    {
+        "name": "Espresso",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/90e40250d4124302a5e936f1ae4cd909.jpg?mw=1300",
+        "price":"5",
+        "country":"Italy",
+        "dis":"Espresso is both the name of a coffee beverage and the method of brewing coffee that originated in Italy. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Cappuccino",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/456920048669494db1631a7efdbdaf51.jpg?mw=1300",
+        "price":"5",
+        "country":"Italy",
+        "dis":"Cappuccino is an Italian coffee made with espresso and steam-foamed milk. It is believed that it developed from kapuziner",
+        "delivery":"yes"
+    },
+    {
+        "name": "Cortado",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/b3681cd11af24b17affd322a68047181.jpg?mw=1300",
+        "price":"5",
+        "country":"Spain",
+        "dis":"Cortado is a Spanish beverage made by pouring a small amount of espresso in a small glass cup, ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Café au lait",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/a61ae64145884bbe96a29d4d06a2b472.jpg?mw=1300",
+        "price":"5",
+        "country":"French",
+        "dis":"Although it is often compared to other European variations, especially the espresso-based Italian caffè latte",
+        "delivery":"yes"
+    },
+    {
+        "name": "Ristretto",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/b3ff391091464edea28c88297d09cf42.jpg?mw=1300",
+        "price":"5",
+        "country":"Dirnks",
+        "dis":"Ristretto, which means restricted in Italian, is half of a single shot of espresso.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Flat White",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/3db2cebfdb374af4910fbc6f7ba07065.jpg?mw=1300",
+        "price":"5",
+        "country":"Australia",
+        "dis":"Flat white is a coffee variety that couples a double shot of freshly brewed espresso and milk.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Caffè Americano",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/f6580dd768a940848cc7454d48c7a084.jpg?mw=1300",
+        "price":"5",
+        "country":"Dirnks",
+        "dis":"Italian caffè Americano is prepared by adding hot water to an already extracted espresso shot. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "Arabic Coffee",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/024c9071e31b46be9400a1e58c83fad3.jpg?mw=1300",
+        "price":"5",
+        "country":"Arabic",
+        "dis":"Made by brewing Arabica coffee beans, Arabic coffee is a traditional beverage with Middle Eastern origins.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Caffè latte",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/29bbe7a28b434b76a6205910a3b906e4.jpg?mw=1300",
+        "price":"5",
+        "country":"Italy",
+        "dis":"Caffè latte (caffè e latte) is an espresso-based coffee that has a somewhat vague origin. ",
+        "delivery":"yes"
+    },
+    {
+        "name": "French Press",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/dfa257b3be8c406a91db4836bd55ab0f.jpg?mw=1300",
+        "price":"5",
+        "country":"French",
+        "dis":"French press is a brewing vessel and a brewing technique consisting of a cylinder-shaped glass and a plunger that is attached to a metal mesh.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Caffè moka",
+        "category":["coffe"],
+        "img":"https://cdn.tasteatlas.com/images/ingredients/ebb0c24ce7c84eab993d0bd44317fc3c.jpg?mw=1300",
+        "price":"5",
+        "country":"Italy",
+        "dis":"Caffè moka is an Italian-style coffee that is made with a traditional moka pot—an electric or stove-top aluminum pot that was invented in 1933 by Alfonso Bialetti.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Coca Cola",
+        "category":["drink"],
+        "img":"https://chaldn.com/_mpimage/coca-cola-can-imported-320-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D127011&q=best&v=1&m=400",
+        "price":"2",
+        "country":"USA",
+        "dis":"Coca cola is the most favourite drink in the world right now.",
+        "delivery":"yes"
+    },
+    {
+        "name": "Red Wine",
+        "category":["drink"],
+        "img":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Red_Wine_Glass.jpg/220px-Red_Wine_Glass.jpg",
+        "price":"30",
+        "country":"USA",
+        "dis":" wine made from dark-colored grape varieties. The color of the wine can range from intense violet",
+        "delivery":"yes"
+    },
+    {
+        "name": "Sake",
+        "category":["drink"],
+        "img":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Sake_set.jpg",
+        "price":"30",
+        "country":"Japanese",
+        "dis":"alcoholic beverage of Japanese origin made by fermenting rice that has been polished to remove the bran. Despite the name Japanese rice wine, sake, and indeed any East Asian rice wine",
+        "delivery":"yes"
+    }
+]
