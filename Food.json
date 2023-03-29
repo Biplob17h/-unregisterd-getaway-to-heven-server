@@ -3,7 +3,7 @@
         "name": "SUSHI",
         "category":["seafood", "rice"],
         "img":"https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg",
-        "price":"15",
+        "price":"20",
         "country":"Japanese",
         "dis":"Japan’s national dish, sushi, is a dish that uses vinegared rice.",
         "delivery":"yes"
@@ -139,7 +139,7 @@
         "name": "KAISENDON",
         "category":["seafood","rice"],
         "img":"https://wandereatwrite.com/usheeche/2021/07/kaisendon-min.jpeg",
-        "price":"",
+        "price":"20",
         "country":"Japanese",
         "dis":"Kaisendon is a seafood rice bowl that includes raw seafood (sashimi) over steamed rice.",
         "delivery":"no"
@@ -273,7 +273,7 @@
     {
         "name": "Cellophane Noodles",
         "category":["noodle"],
-        "img":"",
+        "img":"https://c.ndtvimg.com/2019-04/qvgurllo_glass-noodles_625x300_25_April_19.jpg",
         "price":"10",
         "country":"Chinese",
         "dis":" these thin noodles are made from water and starch extracted from mung beans, yams, cassava, or potato. ",
@@ -319,7 +319,7 @@
         "name": "Baijiu",
         "category":["drink"],
         "img":"https://cdn.tasteatlas.com/images/ingredients/277db61cd12e4655bf95a402a3a6ca8c.jpg?mw=1300",
-        "price":"",
+        "price":"15",
         "country":"Chinese",
         "dis":"Baijiu is a national Chinese drink that is distilled from fermented grains, usually sorghum, wheat, rice, sticky rice, and corn.",
         "delivery":"no"
@@ -373,7 +373,7 @@
         "name": "Manju",
         "category":["sweet"],
         "img":"https://cdn.tasteatlas.com/Images/Dishes/fea3e4a030d14a499d5cd83d4016752d.jpg?mw=1300",
-        "price":"",
+        "price":"20",
         "country":"Chinese",
         "dis":"Manjū is a steamed Japanese confectionery product shaped into various forms and incorporating different ingredients and flavors.",
         "delivery":"no"
@@ -454,7 +454,7 @@
         "name": "Peking Duck",
         "category":["duck","sauce"],
         "img":"https://cdn.tasteatlas.com/images/dishes/d8c9977734d040b3bed4e29caff5b2b2.jpg?mw=1300",
-        "price":"",
+        "price":"25",
         "country":"Chinese",
         "dis":"The history of Peking duck goes back to China's Yuan Dynasty of the 13th century. Bianyifang, Beijing's oldest restaurant specializing in Peking duck has been in business since the Jiajing reign of the 16th century",
         "delivery":"yes"
@@ -741,8 +741,8 @@
     {
         "name": "Egg Or Eggless Pancakes",
         "category":["egg", "pancake"],
-        "img":"",
-        "price":"",
+        "img":"https://minimalistbaker.com/wp-content/uploads/2019/03/Banana-Egg-Pancakes-SQUARE.jpg",
+        "price":"13",
         "country":"Continental",
         "dis":"Whether you are a vegetarian or a non-vegetarian; you have to have interest regarding pancakes",
         "delivery":"yes"
@@ -1390,7 +1390,7 @@
         "name": "Cassata",
         "category":["cake"],
         "img":"https://cdn.tasteatlas.com/images/dishes/ec995ca1dcbc4da99a362f30aebc3eab.jpg?mw=1300",
-        "price":"",
+        "price":"10",
         "country":"Italan",
         "dis":"Arguably Sicily’s most famous dessert, this traditional cake consists of liqueur-drenched genoise sponge cake layered with sweetened ricotta and fruit preserves.",
         "delivery":"yes"
